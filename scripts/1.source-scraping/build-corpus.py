@@ -21,6 +21,7 @@ if __name__ == '__main__':
     for episode in episodes:
         with open('../../static/episodes.txt', 'a') as file:
             link = episode.get('href')
+            link = link.replace('/kaamelott/episode.119.2/', '')
             file.write(link + '\n')
 
     # Reads the file in which the links to episodes are stored
@@ -36,11 +37,11 @@ if __name__ == '__main__':
     pattern = '(?P<episode>[0-9ES]{6}-[a-z0-9-]*)-[0-9]*\.html'
 
     for line in lines:
-        url = f'https://kaamelott.hypnoweb.net{line}'
+        url = f'https://kaamelott.hypnoweb.net/kaamelott/episode.119.2/{line}'
         html = tools.get_html_from_url(url, 'ISO-8859-1')
         scripts = tools.parse_html_by_class(html, '#script_vo div')
 
-        m = re.match(pattern, line.replace('/kaamelott/episode.119.2/', ''))
+        m = re.match(pattern, line)
 
         if len(scripts) != 0:
             with open(f"../../raw/{m.group('episode')}.txt", 'w') as file:
