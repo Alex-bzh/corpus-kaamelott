@@ -8,4 +8,4 @@ The scripts must be run in this order:
 
 ## Warning
 
-We are concern that the scripts erase some replies, mainly due to lack of transciption directives, but the loss is tiny compared to the gain.
+We are concern that the scripts erase some replies (especially `delete-directions.py`), mainly due to lack of transciption directives, but the loss is tiny compared to the gain.

@@ -8,7 +8,7 @@ All the selected episodes are listed in the file `static/episodes.txt`. To consu
 
 ## Distribution
 
-For the moment, the raw version is the only one accessible.
+For the moment, the raw version is the only one accessible. As things progress, you can evaluate the result in the `sample` folder, where a list of screenplays are gradually formatted in text mode.
 
 ## Credits
 
