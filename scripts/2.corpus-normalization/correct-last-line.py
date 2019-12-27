@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
 
+"""Deletes the last line of a script if it a metadata"""
+
 # Modules to import
 import os
 

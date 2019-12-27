@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
 
+"""Creates an index file with metadata from the corpus"""
+
 # Modules to import
 import tools, os
 
