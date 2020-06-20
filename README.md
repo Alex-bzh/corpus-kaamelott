@@ -27,3 +27,5 @@ Transcribed screenplays come from [Hypnoweb.net](https://www.hypnoweb.net/).
 The reference lexicon for spellchecking comes from *Lexique 3* (v3.83) :
 - New, Boris, Pallier, Christophe, Ferrand, Ludovic, Matos, Rafael (2001) Une base de données lexicales du français contemporain sur internet: LEXIQUE, *L’Année Psychologique*, 101, 447-462. <http://www.lexique.org>
 - New, Boris, Pallier, Christophe, Brysbaert, Marc, Ferrand, Ludovic (2004) Lexique 2 : A New French Lexical Database. *Behavior Research Methods, Instruments, & Computers*, 36 (3), 516-524.
+
+French slang lexicon was created thanks to [Bob](https://www.languefrancaise.net/Bob/Introduction/).
