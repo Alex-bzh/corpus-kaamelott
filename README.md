@@ -17,7 +17,7 @@ At this time, only a text version is available, in the folder `txt/`. As things 
 - `static/episodes.txt` lists all the episodes transcribed on *Hypnoweb*. To consult the detailed sheet of an episode, just prefix the title of an episode with this string: `https://kaamelott.hypnoweb.net/kaamelott/episode.119.2/`. Example: [https://kaamelott.hypnoweb.net/kaamelott/episode.119.2/S01E02-la-tarte-aux-myrtilles-2957.html](https://kaamelott.hypnoweb.net/kaamelott/episode.119.2/S01E02-la-tarte-aux-myrtilles-2957.html).
 - `static/index.txt` is a collection of metadata about the original screenplays scraped from Hypnoweb. In order, the metadata are: title, season number, episode number in the season, alias of the transcriber and, finally, the source.
 - `static/ne.txt` lists the named entities.
-- `static/slang.txt` is a lexicon of slang expressions.
+- `static/slang.txt` is a lexicon of slang expressions in tabulated format. The columns are, in order: the word-form, the lemma, the POS and a brief description.
 - The `txt/` folder contains the 400 screenplays in text format. Each line lists, in tabulated format, the speaker and his cue.
 
 ## Credits
