@@ -6,7 +6,7 @@ This corpus is a collection of screenplays (400) from the French TV show [*Kaame
 
 Ultimately, *Corpus Kaamelott* intends to be an NLP-ready annotated resource, available in multiple formats.
 
-See the [documentation](wiki) for more informations.
+See the [documentation](https://github.com/Alex-bzh/corpus-kaamelott/wiki) for more informations.
 
 ## Distribution
 
