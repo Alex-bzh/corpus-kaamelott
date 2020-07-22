@@ -6,18 +6,24 @@ This corpus is a collection of screenplays (400) from the French TV show [*Kaame
 
 Ultimately, *Corpus Kaamelott* intends to be an NLP-ready annotated resource, available in multiple formats.
 
+See the [documentation](wiki) for more informations.
+
 ## Distribution
 
-At this time, only a text version is available, in the folder `txt/`. As things progress, you can evaluate the result of the most recent developments in the `sample/` folder, where a list of screenplays are gradually formatted in text mode.
+At this time, two formats are available:
+- text version;
+- POS tagged version (word/tag).
+
+As things progress, you can evaluate the result of the most recent developments in the `sample/` folder, where a list of screenplays are gradually formatted in text mode.
 
 ## Resources
 
 - `sample/` folder is a set of 40 screenplays selected by sampling. By nature, they should not be considered as stable, but as a work in progress.
 - `static/characters.txt`: directory of characters in Kaamelott.
-- `static/episodes.txt` lists all the episodes transcribed on *Hypnoweb*. To consult the detailed sheet of an episode, just prefix the title of an episode with this string: `https://kaamelott.hypnoweb.net/kaamelott/episode.119.2/`. Example: [https://kaamelott.hypnoweb.net/kaamelott/episode.119.2/S01E02-la-tarte-aux-myrtilles-2957.html](https://kaamelott.hypnoweb.net/kaamelott/episode.119.2/S01E02-la-tarte-aux-myrtilles-2957.html).
-- `static/index.txt` is a collection of metadata about the original screenplays scraped from Hypnoweb. In order, the metadata are: title, season number, episode number in the season, alias of the transcriber and, finally, the source.
+- `static/episodes.txt` lists all the episodes transcribed on *Hypnoweb*.
+- `static/index.txt` is a collection of metadata about the original screenplays scraped from Hypnoweb.
 - `static/ne.txt` lists the named entities.
-- `static/slang.txt` is a lexicon of slang expressions in tabulated format. The columns are, in order: the word-form, the lemma, the POS and a brief description.
+- `static/slang.txt` is a lexicon of slang expressions in tabulated format.
 - The `tagged/` folder contains the 400 screenplays in tagged format (e.g. : token/tag). Each line lists, in tabulated format, the speaker and his cue, tagged.
 - The `txt/` folder contains the 400 screenplays in text format. As for the tagged version, each line lists, in tabulated format, the speaker and his cue.
 
