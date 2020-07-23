@@ -14,7 +14,7 @@ At this time, two formats are available:
 - text version;
 - POS tagged version (word/tag).
 
-As things progress, you can evaluate the result of the most recent developments in the `sample/` folder, where a list of screenplays are gradually formatted in text mode.
+As things progress, you can evaluate the result of the most recent developments in the `sample/` folder.
 
 ## Resources
 
