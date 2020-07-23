@@ -14,11 +14,12 @@ At this time, two formats are available:
 - text version;
 - POS tagged version (word/tag).
 
-As things progress, you can evaluate the result of the most recent developments in the `sample/` folder, where a list of screenplays are gradually formatted in text mode.
+As things progress, you can evaluate the result of the most recent developments in the `sample/` folder.
 
 ## Resources
 
 - `sample/` folder is a set of 40 screenplays selected by sampling. By nature, they should not be considered as stable, but as a work in progress.
+- `static/cast.txt`: makes the link between characters and the actors who interpret them.
 - `static/characters.txt`: directory of characters in Kaamelott.
 - `static/episodes.txt` lists all the episodes transcribed on *Hypnoweb*.
 - `static/index.txt` is a collection of metadata about the original screenplays scraped from Hypnoweb.
