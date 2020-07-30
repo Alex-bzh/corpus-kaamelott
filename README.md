@@ -18,7 +18,7 @@ As things progress, you can evaluate the result of the most recent developments 
 
 ## Resources
 
-- `sample/` folder is a set of 40 screenplays selected by sampling. By nature, they should not be considered as stable, but as a work in progress.
+- `sample/` folder is a set of some screenplays selected by sampling. By nature, they should not be considered as stable, but as a work in progress.
 - `static/cast.txt`: makes the link between characters and the actors who interpret them.
 - `static/characters.txt`: directory of characters in Kaamelott.
 - `static/episodes.txt` lists all the episodes transcribed on *Hypnoweb*.
@@ -26,6 +26,7 @@ As things progress, you can evaluate the result of the most recent developments 
 - `static/ne.txt` lists the named entities.
 - `static/slang.txt` is a lexicon of slang expressions in tabulated format.
 - The `tagged/` folder contains the 400 screenplays in tagged format (e.g. : token/tag). Each line lists, in tabulated format, the speaker and his cue, tagged.
+- The `tools/` folder presents some useful scripts to manipulate the corpus.
 - The `txt/` folder contains the 400 screenplays in text format. As for the tagged version, each line lists, in tabulated format, the speaker and his cue.
 
 ## Credits
