@@ -179,6 +179,12 @@ class KaamelottCorpusReader(CorpusReader):
         All the cues are word-tokenized.
         """
 
+        # Strong punctuation marks.
+        marks = [
+                    ('…', 'PONCT'), ('.', 'PONCT'),
+                    ('!', 'PONCT'), ('?', 'PONCT')
+                ]
+
         # The object returned is a dictionary
         corpus = dict()
 
@@ -191,11 +197,21 @@ class KaamelottCorpusReader(CorpusReader):
             reader = self._reader(fileid)
 
             for row in reader:
+
+                speakers = row[0]
+                sentences, sentence = list(), list()
+
                 # Each cue is tokenized, e.g. splitted into tuples.
                 # Originally a cue is a string of pairs: word/tag.
                 tokens = self._tokenize(row[1])
-                # (speaker, [(word, tag), …])
-                corpus[fileid].append((row[0], tokens))
+                for token in tokens:
+                    sentence.append(token)
+                    if token in marks:
+                        sentences.append(sentence)
+                        sentence = list()
+
+                # (speakers, [(word, tag), …])
+                corpus[fileid].append((speakers, sentences))
 
         return corpus
 
