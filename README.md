@@ -39,5 +39,5 @@ The reference lexicon for spellchecking comes from *Lexique 3* (v3.83) :
 
 French slang lexicon was created thanks to [Bob](https://www.languefrancaise.net/Bob/Introduction).
 
-The POS-tagger has been trained with the [*French Treebank*](http://ftb.linguist.univ-paris-diderot.fr) :
+The POS-tagger has been trained with the [*French Treebank*](http://ftb.llf-paris.fr) :
 - Abeillé, Anne, Clément, L., Toussenel, F. – "Building a treebank for French". In Abeillé, Anne (ed.) *Treebanks*. – Dordrecht : Kluwer, 2003. – p. 165-187.
