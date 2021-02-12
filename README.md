@@ -26,8 +26,42 @@ As things progress, you can evaluate the result of the most recent developments 
 - `static/ne.txt` lists the named entities.
 - `static/slang.txt` is a lexicon of slang expressions in tabulated format.
 - The `tagged/` folder contains the 400 screenplays in tagged format (e.g. : token/tag). Each line lists, in tabulated format, the speaker and his cue, tagged.
-- The `tools/` folder presents some useful scripts to manipulate the corpus.
+- The `tools/` folder presents some useful scripts to manipulate the corpus, like a custom reader for NLTK (see below).
 - The `txt/` folder contains the 400 screenplays in text format. As for the tagged version, each line lists, in tabulated format, the speaker and his cue.
+
+## The custom KaamelottCorpusReader
+
+The `KaamelottCorpusReader` Python class is based on the NLTK CorpusReader API. Be sure to have [NLTK](https://www.nltk.org/) installed before using it.
+
+Below is an example of use:
+
+```py
+# Modules to import
+from collections import defaultdict
+from tools.KaamelottCorpusReader import KaamelottCorpusReader
+
+# Parse the tagged corpus
+kaam = KaamelottCorpusReader('./tagged', r'.*\.pos')
+
+# Select a screenplay
+tagged = kaam.tagged_corpus('S01E01-heat.pos')
+
+# Get all the rows
+rows = tagged.values()
+
+# Make a dictionary of cues by speaker
+d = defaultdict(list)
+for row in rows:
+    for speaker, cues in row:
+        [d[speaker].append(cue) for cue in cues]
+
+# Who are the speakers in the screenplay?
+speakers = d.keys()
+
+# Print the fifth cue of character Karadoc
+print(d['Karadoc'][4])
+# [('De', 'P'), ('quoi', 'PRO'), ('?', 'PONCT')]
+```
 
 ## Credits
 
