@@ -25,6 +25,7 @@ As things progress, you can evaluate the result of the most recent developments 
 - `static/index.txt` is a collection of metadata about the original screenplays scraped from Hypnoweb.
 - `static/ne.txt` lists the named entities.
 - `static/slang.txt` is a lexicon of slang expressions in tabulated format.
+- `static/tagset_map.txt` establishes the correspondence between the POS-tags used in the corpus and the universal tagset.
 - The `tagged/` folder contains the 400 screenplays in tagged format (e.g. : token/tag). Each line lists, in tabulated format, the speaker and his cue, tagged.
 - The `tools/` folder presents some useful scripts to manipulate the corpus, like a custom reader for NLTK (see below).
 - The `txt/` folder contains the 400 screenplays in text format. As for the tagged version, each line lists, in tabulated format, the speaker and his cue.
@@ -38,7 +39,7 @@ Below is an example of use:
 ```py
 # Modules to import
 from collections import defaultdict
-from tools.KaamelottCorpusReader import KaamelottCorpusReader
+from KaamelottCorpusReader import KaamelottCorpusReader
 
 # Parse the tagged corpus
 kaam = KaamelottCorpusReader('./tagged', r'.*\.pos')
