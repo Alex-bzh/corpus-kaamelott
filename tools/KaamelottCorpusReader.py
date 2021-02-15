@@ -158,11 +158,16 @@ class KaamelottCorpusReader(CorpusReader):
             # Fetches a list of lines filled with tuples: (speaker, cue)
             reader = self._reader(fileid)
 
-            for row in reader:
+            for speakers, cues in reader:
                 # A fresh sentence
                 sentence = str()
+
                 # Tags are removed from the utterances
-                utterances = re.sub(r'/[\+\w]+', '', row[1])
+                tokens = self._tokenize(cues)
+                # List of tokens
+                utterances = [ word for word, tag, lemma in tokens ]
+                # List into string
+                utterances = ' '.join(utterances)
                 # Spaces around the punctuation marks are cleaned
                 utterances = self._clean_spaces(utterances)
                 # Each character is added to the sentence
