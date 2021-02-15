@@ -12,7 +12,7 @@ See the [documentation](https://github.com/Alex-bzh/corpus-kaamelott/wiki) for m
 
 At this time, two formats are available:
 - text version;
-- POS tagged version (word/tag).
+- POS tagged version (word/tag/lemma).
 
 As things progress, you can evaluate the result of the most recent developments in the `sample/` folder.
 
@@ -26,7 +26,7 @@ As things progress, you can evaluate the result of the most recent developments 
 - `static/ne.txt` lists the named entities.
 - `static/slang.txt` is a lexicon of slang expressions in tabulated format.
 - `static/tagset_map.txt` establishes the correspondence between the POS-tags used in the corpus and the universal tagset.
-- The `tagged/` folder contains the 400 screenplays in tagged format (e.g. : token/tag). Each line lists, in tabulated format, the speaker and his cue, tagged.
+- The `tagged/` folder contains the 400 screenplays in tagged format (e.g. : word/tag/lemma). Each line lists, in tabulated format, the speaker and his cue, tagged.
 - The `tools/` folder presents some useful scripts to manipulate the corpus, like a custom reader for NLTK (see below).
 - The `txt/` folder contains the 400 screenplays in text format. As for the tagged version, each line lists, in tabulated format, the speaker and his cue.
 
@@ -53,15 +53,20 @@ rows = tagged.values()
 # Make a dictionary of cues by speaker
 d = defaultdict(list)
 for row in rows:
-    for speaker, cues in row:
-        [d[speaker].append(cue) for cue in cues]
+    [
+        [
+            d[speaker].append(cue)
+            for cue in cues
+        ]
+        for speaker, cues in row
+    ]
 
 # Who are the speakers in the screenplay?
 speakers = d.keys()
 
 # Print the fifth cue of character Karadoc
 print(d['Karadoc'][4])
-# [('De', 'P'), ('quoi', 'PRO'), ('?', 'PONCT')]
+# [('De', 'P', 'de'), ('quoi', 'PROWH', 'quoi?'), ('?', 'PONCT', '?')]
 ```
 
 ## Credits
