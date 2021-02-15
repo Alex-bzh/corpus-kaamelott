@@ -196,14 +196,13 @@ class KaamelottCorpusReader(CorpusReader):
             # Opens the file as csv
             reader = self._reader(fileid)
 
-            for row in reader:
+            for speakers, cues in reader:
 
-                speakers = row[0]
                 sentences, sentence = list(), list()
 
                 # Each cue is tokenized, e.g. splitted into tuples.
                 # Originally a cue is a string of pairs: word/tag.
-                tokens = self._tokenize(row[1])
+                tokens = self._tokenize(cues)
                 for token in tokens:
                     sentence.append(token)
                     if token in marks:
