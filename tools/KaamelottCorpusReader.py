@@ -8,7 +8,6 @@
 #
 import csv
 import re
-from nltk.tag import str2tuple, tuple2str
 from nltk.corpus.reader import CorpusReader
 
 class KaamelottCorpusReader(CorpusReader):
@@ -43,7 +42,7 @@ class KaamelottCorpusReader(CorpusReader):
         # are eliminated.
         text = re.sub('\s([",\.…])', '\g<1>', text)
         # Same fate for spaces around a dash or a single quote
-        text = re.sub('\s?([’-])\s', '\g<1>', text)
+        text = re.sub('\s?([\'-])\s', '\g<1>', text)
 
         return text
 
@@ -75,14 +74,15 @@ class KaamelottCorpusReader(CorpusReader):
         # The raw string to return
         raw = str()
 
-        # Tokens are tuples of (word, tag).
+        # Tokens are tuples of (word, tag, lemma).
         # The goal is to merge the tuples with a blank space,
         # by keeping only the first element (the word).
         raw += ' '.join(
             [
-                re.search(r'(.*)/.+', tuple2str(token)).group(1)
-                for token in tokens
-            ])
+                word
+                for word, tag, lemma in tokens
+            ]
+        )
 
         # Clean spaces around punctuation marks
         raw = self._clean_spaces(raw)
@@ -90,10 +90,13 @@ class KaamelottCorpusReader(CorpusReader):
         return raw
 
     def _tokenize(self, string):
-        """Transforms a tagged string (format word/tag)
-        into a list of tuples: (word, tag)
+        """Transforms a tagged string (format word/tag/lemma)
+        into a list of tuples: (word, tag, lemma)
         """
-        tokens = [ str2tuple(pair) for pair in string.split() ]
+        tokens =    [
+                        tuple(triplet.split('/'))
+                        for triplet in string.split()
+                    ]
 
         return tokens
 
@@ -112,10 +115,10 @@ class KaamelottCorpusReader(CorpusReader):
             reader = self._reader(fileid)
 
             # Each entry is analysed to delete the tag from the words
-            for row in reader:
-                tokens = self._tokenize(row[1])
-                cue = self._tokens_to_raw(tokens)
-                text += f'{row[0]}\t{cue}\n'
+            for speaker, cue in reader:
+                tokens = self._tokenize(cue)
+                raw_cue = self._tokens_to_raw(tokens)
+                text += f'{speaker}\t{raw_cue}\n'
 
         # The text, minus the last blank line
         return text[:-1]
@@ -181,8 +184,8 @@ class KaamelottCorpusReader(CorpusReader):
 
         # Strong punctuation marks.
         marks = [
-                    ('…', 'PONCT'), ('.', 'PONCT'),
-                    ('!', 'PONCT'), ('?', 'PONCT')
+                    ('…', 'PONCT', '…'), ('.', 'PONCT', '.'),
+                    ('!', 'PONCT', '!'), ('?', 'PONCT', '?')
                 ]
 
         # The object returned is a dictionary
@@ -225,14 +228,14 @@ class KaamelottCorpusReader(CorpusReader):
             # Fetches a list of lines filled with tuples: (speaker, cue)
             reader = self._reader(fileid)
 
-            # Transforms each cue into a list of tuples (word, tag)
+            # Transforms each cue into a list of tuples (word, tag, lemma)
             # that is added to the collection.
             [
                 [
                     tagged_words.append(token)
-                    for token in self._tokenize(row[1])
+                    for token in self._tokenize(cue)
                 ]
-                for row in reader
+                for speaker, cue in reader
             ]
 
         return tagged_words
@@ -245,8 +248,8 @@ class KaamelottCorpusReader(CorpusReader):
 
         # Strong punctuation marks.
         marks = [
-                    ('…', 'PONCT'), ('.', 'PONCT'),
-                    ('!', 'PONCT'), ('?', 'PONCT')
+                    ('…', 'PONCT', '…'), ('.', 'PONCT', '.'),
+                    ('!', 'PONCT', '!'), ('?', 'PONCT', '?')
                 ]
 
         # List of sentences in a file
@@ -257,13 +260,13 @@ class KaamelottCorpusReader(CorpusReader):
             # Fetches a list of lines filled with tuples: (speaker, cue)
             reader = self._reader(fileid)
 
-            for row in reader:
+            for speaker, cue in reader:
 
                 # Each cue is at least composed of one sentence
                 sentence = list()
 
                 # Cue is tokenized
-                tokens = self._tokenize(row[1])
+                tokens = self._tokenize(cue)
 
                 for token in tokens:
 
