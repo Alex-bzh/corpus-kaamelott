@@ -81,3 +81,6 @@ French slang lexicon was created thanks to [Bob](https://www.languefrancaise.net
 
 The POS-tagger has been trained with the [*French Treebank*](http://ftb.llf-paris.fr) :
 - Abeillé, Anne, Clément, L., Toussenel, F. – "Building a treebank for French". In Abeillé, Anne (ed.) *Treebanks*. – Dordrecht : Kluwer, 2003. – p. 165-187.
+
+Lemmatization of tokens was made possible thanks to the [*French LEFFF Lemmatizer*](https://github.com/ClaudeCoulombe/FrenchLefffLemmatizer) by Claude Coulombe, based on the *Lefff* lexicon:
+- Sagot (2010). The Lefff, a freely available and large-coverage morphological and syntactic lexicon for French. In *Proceedings of the 7th international conference on Language Resources and Evaluation* (LREC 2010), Istanbul, Turkey
