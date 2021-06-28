@@ -10,9 +10,10 @@ See the [documentation](https://github.com/Alex-bzh/corpus-kaamelott/wiki) for m
 
 ## Distribution
 
-At this time, two formats are available:
+At this time, three formats are available:
 - text version;
-- POS tagged version (word/tag/lemma).
+- POS tagged version (word/tag/lemma);
+- XML-TEI version.
 
 As things progress, you can evaluate the result of the most recent developments in the `sample/` folder.
 
@@ -29,6 +30,7 @@ As things progress, you can evaluate the result of the most recent developments 
 - The `tagged/` folder contains the 400 screenplays in tagged format (e.g. : word/tag/lemma). Each line lists, in tabulated format, the speaker and his cue, tagged.
 - The `tools/` folder presents some useful scripts to manipulate the corpus, like a custom reader for NLTK (see below).
 - The `txt/` folder contains the 400 screenplays in text format. As for the tagged version, each line lists, in tabulated format, the speaker and his cue.
+- The `xml/` folder hosts the corpus in XML-TEI compliant format.
 
 ## The custom KaamelottCorpusReader
 
