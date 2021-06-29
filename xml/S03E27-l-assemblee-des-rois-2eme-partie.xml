@@ -1,2 +1,1397 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en"><teiHeader><fileDesc><titleStmt><title>Kaamelott : L’assemblée des rois, 2ème partie (S03E27)</title><author>Alexandre Astier</author><respStmt><resp>édité par</resp><name>Alexandre Roulois</name></respStmt></titleStmt><publicationStmt><publisher>CALT, Dies Irae, Shortcom</publisher><pubPlace>Paris</pubPlace><date>2005</date></publicationStmt><sourceDesc><p>Document numérique natif.</p></sourceDesc></fileDesc></teiHeader><text><front><castList><castItem><role xml:id="arthur">Arthur Pendragon</role><actor>Alexandre Astier</actor></castItem><castItem><role xml:id="calogrenant">Calogrenant</role><actor>Stéphane Margot</actor></castItem><castItem><role xml:id="grudu">Grüdü</role><actor>Thibault Roux</actor></castItem><castItem><role xml:id="hoel">Hoël d’Armorique</role><actor>Eddy Letexier</actor></castItem><castItem><role xml:id="ketchatar">Ketchatar</role><actor>Valentin Traversi</actor></castItem><castItem><role xml:id="maitre-d-armes">Le maître d’armes</role><actor>Christian Bujeau</actor></castItem><castItem><role xml:id="leodagan">Léodagan</role><actor>Lionnel Astier</actor></castItem><castItem><role xml:id="loth">Loth d’Orcanie</role><actor>François Rollin</actor></castItem></castList></front><body><sp who="#grudu"><p><s><w pos="CC" lemma="mais">Mais</w><w pos="ADVWH" lemma="pourquoi?">pourquoi</w><w pos="CLS" lemma="il">j'</w><w pos="NC" lemma="-">irais</w><w pos="P" lemma="à">à</w><w pos="DET" lemma="le">la</w><w pos="NC" lemma="porte">porte</w><w pos="ADJ" lemma="arrière">arrière</w><w pos="PONCT" lemma=",">,</w><w pos="PRO" lemma="lui">moi</w><w pos="PONCT" lemma="?">?</w></s></p></sp><sp who="#maitre-d-armes"><p><s><w pos="CS" lemma="-">Parce</w><w pos="CS" lemma="-">qu'</w><w pos="CLS" lemma="il">il</w><w pos="V" lemma="faillir">faut</w><w pos="ADV" lemma="bien">bien</w><w pos="CS" lemma="-">que</w><w pos="DET" lemma="quelque">quelqu'</w><w pos="PRO" lemma="un">un</w><w pos="CLO" lemma="-">y</w><w pos="V" lemma="ailler">aille</w><w pos="PONCT" lemma="!">!</w></s></p></sp><sp who="#grudu"><p><s><w pos="CC" lemma="mais">Mais</w><w pos="P" lemma="de">de</w><w pos="DET" lemma="tout">toute</w><w pos="NC" lemma="façon">façon</w><w pos="CS" lemma="si">si</w><w pos="CLO" lemma="-">y</w><w pos="V" lemma="avoir">a</w><w pos="DET" lemma="un">un</w><w pos="NC" lemma="attentat">attentat</w><w pos="CLS" lemma="il">on</w><w pos="V" lemma="être">est</w><w pos="ADV" lemma="-">pas</w><w pos="ADV" lemma="assez">assez</w><w pos="P" lemma="pour">pour</w><w pos="VINF" lemma="repousser">repousser</w><w pos="PONCT" lemma=",">,</w><w pos="ADV" lemma="autant">autant</w><w pos="VINF" lemma="rester">rester</w><w pos="NC" lemma="-">groupés</w><w pos="PONCT" lemma="!">!</w></s></p></sp><sp who="#maitre-d-armes"><p><s><w pos="CC" lemma="mais">Mais</w><w pos="DET" lemma="le">la</w><w pos="V" lemma="porter">porte</w><w pos="ADJ" lemma="arrière">arrière</w><w pos="V" lemma="être">est</w><w pos="ADV" lemma="-">pas</w><w pos="VPP" lemma="garder">gardée</w><w pos="PONCT" lemma=",">,</w><w pos="CLO" lemma="-">y</w><w pos="V" lemma="avoir">a</w><w pos="ADV" lemma="juste">juste</w><w pos="P" lemma="à">à</w><w pos="VINF" lemma="lever">lever</w><w pos="DET" lemma="le">le</w><w pos="NC" lemma="loquet">loquet</w><w pos="PONCT" lemma="!">!</w></s></p></sp><sp who="#grudu"><p><s><w pos="NC" lemma="-">Eh</w><w pos="NC" lemma="-">ben</w><w pos="PONCT" lemma=",">,</w><w pos="CLS" lemma="il">on</w><w pos="V" lemma="lever">lève</w><w pos="DET" lemma="le">le</w><w pos="NC" lemma="loquet">loquet</w><w pos="PONCT" lemma=",">,</w><w pos="CLS" lemma="il">on</w><w pos="V" lemma="entendre">entend</w><w pos="DET" lemma="le">le</w><w pos="NC" lemma="loquet">loquet</w><w pos="PONCT" lemma=",">,</w><w pos="CLS" lemma="il">on</w><w pos="CLO" lemma="-">y</w><w pos="V" lemma="aller">va</w><w pos="CC" lemma="et">et</w><w pos="CLS" lemma="il">on</w><w pos="CLO" lemma="le">les</w><w pos="NC" lemma="-">bousille</w><w pos="PONCT" lemma="!">!</w></s></p></sp><sp who="#maitre-d-armes"><p><s><w pos="CC" lemma="mais">Mais</w><w pos="DET" lemma="le">le</w><w pos="NC" lemma="temps">temps</w><w pos="PROREL" lemma="que">qu'</w><w pos="CLS" lemma="il">on</w><w pos="CLO" lemma="-">y</w><w pos="V" lemma="ailler">aille</w><w pos="CLS" lemma="il">ils</w><w pos="V" lemma="avoir">auront</w><w pos="ADV" lemma="déjà">déjà</w><w pos="VPP" lemma="buter">buté</w><w pos="ADV" lemma="tout">tout</w><w pos="DET" lemma="le">le</w><w pos="NC" lemma="monde">monde</w><w pos="PONCT" lemma="!">!</w></s></p></sp><sp who="#grudu"><p><s><w pos="ADV" lemma="non">Non</w><w pos="CC" lemma="mais">mais</w><w pos="CLS" lemma="il">on</w><w pos="CLR" lemma="se">se</w><w pos="NC" lemma="-">grouille</w><w pos="PONCT" lemma=".">.</w></s></p></sp><sp who="#ketchatar"><p><s><w pos="CC" lemma="mais">Mais</w><w pos="CLS" lemma="il">je</w><w pos="V" lemma="dire">dis</w><w pos="ADV" lemma="-">pas</w><w pos="CS" lemma="-">que</w><w pos="CLS" lemma="il">je</w><w pos="CLO" lemma="le">me</w><w pos="ADJ" lemma="fou">fous</w><w pos="P" lemma="de">de</w><w pos="DET" lemma="le">l'</w><w pos="NC" lemma="éducation">éducation</w><w pos="PONCT" lemma=",">,</w><w pos="CLS" lemma="il">je</w><w pos="V" lemma="dire">dis</w><w pos="CS" lemma="-">qu'</w><w pos="CLS" lemma="ce">c'</w><w pos="V" lemma="être">est</w><w pos="ADV" lemma="-">pas</w><w pos="DET" lemma="un">une</w><w pos="NC" lemma="priorité">priorité</w><w pos="PONCT" lemma=".">.</w></s></p></sp><sp who="#hoel"><p><s><w pos="NPP" lemma="-">Ben</w><w pos="ADV" lemma="évidemment">évidemment</w><w pos="PONCT" lemma=",">,</w><w pos="CLO" lemma="-">y</w><w pos="V" lemma="avoir">a</w><w pos="ADV" lemma="-">que</w><w pos="DET" lemma="un">des</w><w pos="ADJ" lemma="vieux">vieux</w><w pos="P" lemma="chez">chez</w><w pos="PRO" lemma="lui">vous</w><w pos="PONCT" lemma="!">!</w></s></p></sp><sp who="#ketchatar"><p><s><w pos="CC" lemma="mais">Mais</w><w pos="CLS" lemma="il">je</w><w pos="CLO" lemma="le">vous</w><w pos="NC" lemma="emmerde">emmerde</w><w pos="DET" lemma="son">mon</w><w pos="ADJ" lemma="petit">petit</w><w pos="NC" lemma="pote">pote</w><w pos="PONCT" lemma="!">!</w></s><s><w pos="P+D" lemma="-">Au</w><w pos="NC" lemma="bout">bout</w><w pos="P" lemma="de">d'</w><w pos="DET" lemma="un">un</w><w pos="NC" lemma="moment">moment</w><w pos="PROREL" lemma="que">qu'</w><w pos="V" lemma="être">est</w><w pos="PONCT" lemma="-">-</w><w pos="CLS" lemma="ce">ce</w><w pos="CS" lemma="-">qu'</w><w pos="CLS" lemma="il">on</w><w pos="CLO" lemma="-">en</w><w pos="V" lemma="avoir">a</w><w pos="P" lemma="à">à</w><w pos="NC" lemma="foutre">foutre</w><w pos="CS" lemma="-">que</w><w pos="DET" lemma="le">les</w><w pos="NC" lemma="môme">mômes</w><w pos="CLS" lemma="il">ils</w><w pos="VS" lemma="être">soient</w><w pos="NC" lemma="illettré">illettrés</w><w pos="PONCT" lemma="!">!</w></s></p></sp><sp who="#loth"><p /></sp><sp who="#leodagan"><p><s><w pos="NC" lemma="-">Eh</w><w pos="NC" lemma="-">ben</w><w pos="CLO" lemma="le">vous</w><w pos="V" lemma="avoir">avez</w><w pos="P" lemma="de">de</w><w pos="DET" lemma="le">la</w><w pos="NC" lemma="chance">chance</w><w pos="PONCT" lemma=".">.</w></s><s><w pos="CS" lemma="-">Parce</w><w pos="CS" lemma="-">que</w><w pos="PRO" lemma="lui">moi</w><w pos="CLS" lemma="il">j'</w><w pos="V" lemma="avoir">ai</w><w pos="VPP" lemma="apprendre">appris</w><w pos="P" lemma="à">à</w><w pos="VINF" lemma="lire">lire</w><w pos="PONCT" lemma=",">,</w><w pos="I" lemma="eh">eh</w><w pos="NC" lemma="-">ben</w><w pos="CLS" lemma="il">je</w><w pos="V" lemma="souhaiter">souhaite</w><w pos="PRO" lemma="cela">ça</w><w pos="P" lemma="à">à</w><w pos="NC" lemma="personne">personne</w><w pos="PONCT" lemma=".">.</w></s></p></sp><sp who="#arthur"><p><s><w pos="NC" lemma="-">Attendez</w><w pos="PONCT" lemma=",">,</w><w pos="CLS" lemma="il">je</w><w pos="V" lemma="comprendre">comprends</w><w pos="ADV" lemma="-">pas</w><w pos="PONCT" lemma=".">.</w></s><s><w pos="DET" lemma="le">La</w><w pos="ADJ" lemma="dernier">dernière</w><w pos="NC" lemma="assemblée">Assemblée</w><w pos="P+D" lemma="-">des</w><w pos="NC" lemma="roi">Rois</w><w pos="CLO" lemma="-">y</w><w pos="V" lemma="avoir">a</w><w pos="DET" lemma="-">quatre</w><w pos="NC" lemma="an">ans</w><w pos="PONCT" lemma=",">,</w><w pos="CLS" lemma="il">on</w><w pos="V" lemma="avoir">avait</w><w pos="VPP" lemma="dire">dit</w><w pos="CS" lemma="-">qu'</w><w pos="CLS" lemma="il">il</w><w pos="V" lemma="falloir">fallait</w><w pos="VINF" lemma="oser">oser</w><w pos="DET" lemma="un">une</w><w pos="NC" lemma="politique">politique</w><w pos="ADJ" lemma="progressiste">progressiste</w><w pos="PONCT" lemma=".">.</w></s></p></sp><sp who="#arthur"><p><s><w pos="PROWH" lemma="quiNom?">Qui</w><w pos="V" lemma="avoir">avait</w><w pos="VPP" lemma="comprendre">compris</w><w pos="DET" lemma="le">la</w><w pos="NC" lemma="phrase">phrase</w><w pos="PONCT" lemma="?">?</w></s></p></sp><sp who="#arthur"><p><s><w pos="I" lemma="-">Ah</w><w pos="ADV" lemma="non">non</w><w pos="CC" lemma="mais">mais</w><w pos="CLS" lemma="il">vous</w><w pos="CLO" lemma="le">vous</w><w pos="NC" lemma="-">foutez</w><w pos="DET" lemma="un">de</w><w pos="PRO" lemma="lui">moi</w><w pos="PONCT" lemma="…">…</w></s></p></sp><sp who="#loth"><p><s><w pos="ADV" lemma="non">Non</w><w pos="P" lemma="en">en</w><w pos="ADV" lemma="plus">plus</w><w pos="CLS" lemma="ce">c'</w><w pos="V" lemma="être">est</w><w pos="ADV" lemma="-">pas</w><w pos="ADJ" lemma="vrai">vrai</w><w pos="PONCT" lemma=",">,</w><w pos="CLS" lemma="il">j'</w><w pos="V" lemma="avoir">avais</w><w pos="ADV" lemma="-">pas</w><w pos="VPP" lemma="comprendre">compris</w><w pos="PONCT" lemma="…">…</w></s></p></sp><sp who="#leodagan"><p><s><w pos="CC" lemma="mais">Mais</w><w pos="PRO" lemma="lui">vous</w><w pos="VPP" lemma="faire">faites</w><w pos="DET" lemma="un">des</w><w pos="NC" lemma="phrase">phrases</w><w pos="PONCT" lemma="!">!</w></s><s><w pos="CLS" lemma="ce">C'</w><w pos="V" lemma="être">est</w><w pos="ADJ" lemma="sûr">sûr</w><w pos="PONCT" lemma=",">,</w><w pos="CLS" lemma="il">nous</w><w pos="CLS" lemma="il">on</w><w pos="V" lemma="dire">dit</w><w pos="PONCT" lemma="&quot;">"</w><w pos="NC" lemma="oui">oui</w><w pos="PONCT" lemma=",">,</w><w pos="ADV" lemma="oui">oui</w><w pos="PONCT" lemma="&quot;">"</w><w pos="P" lemma="pour">pour</w><w pos="ADV" lemma="-">pas</w><w pos="VINF" lemma="casser">casser</w><w pos="DET" lemma="le">l'</w><w pos="NC" lemma="ambiance">ambiance</w><w pos="PONCT" lemma="!">!</w></s></p></sp><sp who="#ketchatar"><p><s><w pos="P" lemma="de">De</w><w pos="ADV" lemma="là">là</w><w pos="P" lemma="à">à</w><w pos="NC" lemma="-">balancer</w><w pos="ADV" lemma="tout">tout</w><w pos="DET" lemma="le">le</w><w pos="NC" lemma="pognon">pognon</w><w pos="P" lemma="dans">dans</w><w pos="DET" lemma="le">les</w><w pos="NC" lemma="école">écoles</w><w pos="PONCT" lemma=",">,</w><w pos="V" lemma="faillir">faut</w><w pos="ADV" lemma="peut-être">peut-être</w><w pos="ADV" lemma="-">pas</w><w pos="VINF" lemma="pousser">pousser</w><w pos="PONCT" lemma=".">.</w></s></p></sp><sp who="#loth"><p /></sp><sp who="#hoel"><p><s><w pos="I" lemma="-">Ah</w><w pos="CC" lemma="mais">mais</w><w pos="ADV" lemma="-">n'</w><w pos="V" lemma="empêcher">empêche</w><w pos="ADV" lemma="-">que</w><w pos="P" lemma="pendant">pendant</w><w pos="CS" lemma="-">qu'</w><w pos="CLO" lemma="-">y</w><w pos="V" lemma="être">sont</w><w pos="P" lemma="à">à</w><w pos="DET" lemma="le">l'</w><w pos="NC" lemma="école">école</w><w pos="CLO" lemma="-">y</w><w pos="V" lemma="être">sont</w><w pos="ADV" lemma="-">pas</w><w pos="P" lemma="dans">dans</w><w pos="DET" lemma="le">les</w><w pos="NC" lemma="taverne">tavernes</w><w pos="PONCT" lemma="!">!</w></s></p></sp><sp who="#ketchatar"><p><s><w pos="CLS" lemma="il">Vous</w><w pos="NC" lemma="-">trouvez</w><w pos="CS" lemma="-">qu'</w><w pos="CLO" lemma="-">y</w><w pos="V" lemma="avoir">a</w><w pos="P" lemma="de">de</w><w pos="PROWH" lemma="quoi?">quoi</w><w pos="VINF" lemma="flamber">flamber</w><w pos="PONCT" lemma="?">?</w></s></p></sp><sp who="#calogrenant"><p><s><w pos="DET" lemma="le">La</w><w pos="NC" lemma="taverne">taverne</w><w pos="CLS" lemma="ce">c'</w><w pos="V" lemma="être">est</w><w pos="DET" lemma="un">un</w><w pos="NC" lemma="lieu">lieu</w><w pos="P" lemma="de">de</w><w pos="NC" lemma="fraternité">fraternité</w><w pos="PONCT" lemma=",">,</w><w pos="ADV" lemma="-">tandis</w><w pos="CS" lemma="-">que</w><w pos="DET" lemma="le">la</w><w pos="NC" lemma="lecture">lecture</w><w pos="CLS" lemma="ce">c'</w><w pos="V" lemma="être">est</w><w pos="ADJ" lemma="solitaire">solitaire</w><w pos="PONCT" lemma=".">.</w></s></p></sp><sp who="#loth"><p><s><w pos="CS" lemma="si">Si</w><w pos="CLS" lemma="il">ils</w><w pos="V" lemma="faire">font</w><w pos="PRO" lemma="tout">tout</w><w pos="P" lemma="en">en</w><w pos="ADJ" lemma="solitaire">solitaire</w><w pos="PONCT" lemma="…">…</w></s></p></sp><sp who="#ketchatar"><p><s><w pos="PONCT" lemma="…">…</w></s><s><w pos="NPP" lemma="-">Ben</w><w pos="NC" lemma="oui">oui</w><w pos="CLS" lemma="il">il</w><w pos="V" lemma="aller">va</w><w pos="CLO" lemma="-">y</w><w pos="VINF" lemma="avoir">avoir</w><w pos="DET" lemma="un">une</w><w pos="NC" lemma="chute">chute</w><w pos="P" lemma="de">de</w><w pos="PONCT" lemma="…">…</w></s><s><w pos="NC" lemma="truc">truc</w><w pos="ADV" lemma="là">là</w><w pos="PONCT" lemma="…">…</w></s><s><w pos="NC" lemma="-">euh</w><w pos="CS" lemma="quand">quand</w><w pos="CLO" lemma="-">y</w><w pos="V" lemma="avoir">a</w><w pos="VPP" lemma="pouvoir">pu</w><w pos="NC" lemma="personne">personne</w><w pos="PONCT" lemma=",">,</w><w pos="ADV" lemma="là">là</w><w pos="PONCT" lemma="!">!</w></s></p></sp><sp who="#arthur"><p><s><w pos="NC" lemma="-">Démographique</w><w pos="PONCT" lemma=".">.</w></s></p></sp><sp who="#ketchatar"><p><s><w pos="ADV" lemma="non">Non</w><w pos="PONCT" lemma=",">,</w><w pos="ADJ" lemma="démographique">démographique</w><w pos="PONCT" lemma=",">,</w><w pos="CLS" lemma="ce">c'</w><w pos="V" lemma="être">est</w><w pos="PRO" lemma="tout">tout</w><w pos="PRO" lemma="-">ce</w><w pos="PROREL" lemma="qui">qui</w><w pos="CLR" lemma="se">se</w><w pos="V" lemma="passer">passe</w><w pos="P" lemma="à">à</w><w pos="DET" lemma="le">la</w><w pos="NC" lemma="campagne">campagne</w><w pos="PONCT" lemma=",">,</w><w pos="ADV" lemma="non">non</w><w pos="PONCT" lemma="?">?</w></s></p></sp><sp who="#arthur"><p><s><w pos="ADJ" lemma="agricole">Agricole</w><w pos="PONCT" lemma="…">…</w></s></p></sp><sp who="#ketchatar"><p><s><w pos="ADV" lemma="oui">Oui</w><w pos="PONCT" lemma=",">,</w><w pos="V" lemma="voilà">voilà</w><w pos="PONCT" lemma=".">.</w></s><s><w pos="ADJ" lemma="agricole">Agricole</w><w pos="PONCT" lemma=".">.</w></s></p></sp><sp who="#grudu"><p><s><w pos="CLS" lemma="il">Il</w><w pos="CLO" lemma="le">me</w><w pos="V" lemma="sembler">semble</w><w pos="VINF" lemma="avoir">avoir</w><w pos="VPP" lemma="entendre">entendu</w><w pos="P" lemma="comme">comme</w><w pos="DET" lemma="un">un</w><w pos="NC" lemma="bruit">bruit</w><w pos="PONCT" lemma="…">…</w></s></p></sp><sp who="#maitre-d-armes"><p><s><w pos="DET" lemma="un">Un</w><w pos="NC" lemma="bruit">bruit</w><w pos="P" lemma="de">de</w><w pos="PRO" lemma="-">quoi</w><w pos="PONCT" lemma="?">?</w></s></p></sp><sp who="#grudu"><p><s><w pos="P" lemma="comme">Comme</w><w pos="DET" lemma="un">un</w><w pos="NC" lemma="grincement">grincement</w><w pos="PONCT" lemma=".">.</w></s></p></sp><sp who="#maitre-d-armes"><p><s><w pos="CC" lemma="mais">Mais</w><w pos="DET" lemma="un">un</w><w pos="NC" lemma="grincement">grincement</w><w pos="ADVWH" lemma="comment?">comment</w><w pos="PONCT" lemma="?">?</w></s></p></sp><sp who="#maitre-d-armes"><p><s><w pos="ADV" lemma="oui">Oui</w><w pos="PONCT" lemma=",">,</w><w pos="DET" lemma="un">une</w><w pos="V" lemma="porter">porte</w><w pos="PROREL" lemma="qui">qui</w><w pos="NC" lemma="-">grince</w><w pos="PONCT" lemma=",">,</w><w pos="ADV" lemma="oui">oui</w><w pos="PONCT" lemma="!">!</w></s></p></sp><sp who="#grudu"><p><s><w pos="ADV" lemma="non">Non</w><w pos="CC" lemma="mais">mais</w><w pos="ADV" lemma="là">là</w><w pos="PONCT" lemma=",">,</w><w pos="P" lemma="dans">dans</w><w pos="DET" lemma="le">le</w><w pos="NC" lemma="contexte">contexte</w><w pos="PONCT" lemma="…">…</w></s></p></sp><sp who="#maitre-d-armes"><p><s><w pos="NC" lemma="-">Eh</w><w pos="NC" lemma="-">ben</w><w pos="PONCT" lemma="?">?</w></s></p></sp><sp who="#grudu"><p><s><w pos="CS" lemma="si">Si</w><w pos="PONCT" lemma=",">,</w><w pos="NC" lemma="-">remarquez</w><w pos="PONCT" lemma=",">,</w><w pos="DET" lemma="un">une</w><w pos="V" lemma="porter">porte</w><w pos="PROREL" lemma="qui">qui</w><w pos="NC" lemma="-">grince</w><w pos="PONCT" lemma=".">.</w></s></p></sp><sp who="#maitre-d-armes"><p><s><w pos="P" lemma="par">Par</w><w pos="NC" lemma="exemple">exemple</w><w pos="PONCT" lemma=",">,</w><w pos="ADV" lemma="oui">oui</w><w pos="PONCT" lemma=".">.</w></s></p></sp><sp who="#grudu"><p><s><w pos="CLS" lemma="il">J'</w><w pos="NC" lemma="-">irais</w><w pos="ADV" lemma="bien">bien</w><w pos="VINF" lemma="voir">voir</w><w pos="CC" lemma="mais">mais</w><w pos="CLS" lemma="il">je</w><w pos="V" lemma="pouvoir">peux</w><w pos="ADV" lemma="-">pas</w><w pos="VINF" lemma="laisser">laisser</w><w pos="DET" lemma="le">l'</w><w pos="NC" lemma="entrée">entrée</w><w pos="P" lemma="sans">sans</w><w pos="NC" lemma="surveillance">surveillance</w><w pos="PONCT" lemma=".">.</w></s></p></sp><sp who="#maitre-d-armes"><p><s><w pos="CC" lemma="mais">Mais</w><w pos="PRO" lemma="lui">moi</w><w pos="CLS" lemma="il">je</w><w pos="V" lemma="rester">reste</w><w pos="PONCT" lemma="!">!</w></s></p></sp><sp who="#grudu"><p><s><w pos="CLS" lemma="il">J'</w><w pos="V" lemma="abandonner">abandonne</w><w pos="ADV" lemma="jamais">jamais</w><w pos="DET" lemma="son">mon</w><w pos="NC" lemma="poste">poste</w><w pos="PONCT" lemma=".">.</w></s></p></sp><sp who="#maitre-d-armes"><p><s><w pos="ADJ" lemma="bon">Bon</w><w pos="NC" lemma="-">ben</w><w pos="CLS" lemma="il">j'</w><w pos="CLO" lemma="-">y</w><w pos="V" lemma="aller">vais</w><w pos="PONCT" lemma=",">,</w><w pos="PRO" lemma="lui">moi</w><w pos="PONCT" lemma="!">!</w></s></p></sp><sp who="#grudu"><p><s><w pos="CS" lemma="si">Si</w><w pos="CLS" lemma="il">vous</w><w pos="NC" lemma="-">abandonnez</w><w pos="DET" lemma="son">votre</w><w pos="NC" lemma="poste">poste</w><w pos="PONCT" lemma=",">,</w><w pos="CLS" lemma="il">je</w><w pos="CLO" lemma="le">vous</w><w pos="NC" lemma="défonce">défonce</w><w pos="PONCT" lemma=".">.</w></s></p></sp><sp who="#maitre-d-armes"><p><s><w pos="P" lemma="sans">Sans</w><w pos="NC" lemma="blague">blague</w><w pos="PONCT" lemma="…">…</w></s></p></sp><sp who="#hoel"><p><s><w pos="NC" lemma="-">VOUS</w><w pos="NC" lemma="-">ÊTES</w><w pos="DET" lemma="le">LA</w><w pos="NC" lemma="pire">PIRE</w><w pos="NC" lemma="bande">BANDE</w><w pos="P" lemma="de">DE</w><w pos="NC" lemma="bon">BONS</w><w pos="P" lemma="à">À</w><w pos="NC" lemma="rien">RIEN</w><w pos="P+D" lemma="-">DU</w><w pos="NC" lemma="monde">MONDE</w><w pos="NC" lemma="celte">CELTE</w><w pos="PONCT" lemma="!">!</w></s></p></sp><sp who="#loth"><p><s><w pos="CLS" lemma="il">Je</w><w pos="ADV" lemma="-">ne</w><w pos="NC" lemma="-">reviendrai</w><w pos="ADV" lemma="plus">plus</w><w pos="ADV" lemma="jamais">jamais</w><w pos="PONCT" lemma=",">,</w><w pos="DET" lemma="ce">cette</w><w pos="NC" lemma="foi">fois</w><w pos="CLS" lemma="il">je</w><w pos="CLO" lemma="le">le</w><w pos="V" lemma="dire">dis</w><w pos="PONCT" lemma=",">,</w><w pos="CLS" lemma="il">je</w><w pos="CLO" lemma="le">le</w><w pos="V" lemma="faire">fais</w><w pos="PONCT" lemma=",">,</w><w pos="CLS" lemma="il">je</w><w pos="V" lemma="rester">reste</w><w pos="P" lemma="chez">chez</w><w pos="PRO" lemma="lui">moi</w><w pos="PONCT" lemma=",">,</w><w pos="NC" lemma="merde">merde</w><w pos="PONCT" lemma=",">,</w><w pos="PRO" lemma="cela">ça</w><w pos="V" lemma="suffire">suffit</w><w pos="PONCT" lemma=".">.</w></s></p></sp><sp who="#leodagan"><p><s><w pos="CLS" lemma="il">On</w><w pos="CLO" lemma="-">en</w><w pos="V" lemma="avoir">a</w><w pos="ADV" lemma="déjà">déjà</w><w pos="DET" lemma="un">un</w><w pos="PROREL" lemma="qui">qui</w><w pos="V" lemma="gouverner">gouverne</w><w pos="P" lemma="comme">comme</w><w pos="DET" lemma="un">une</w><w pos="NC" lemma="femme">femme</w><w pos="PONCT" lemma=",">,</w><w pos="CLS" lemma="il">on</w><w pos="V" lemma="aller">va</w><w pos="ADV" lemma="-">pas</w><w pos="P" lemma="en">en</w><w pos="VINF" lemma="faire">faire</w><w pos="NC" lemma="collection">collection</w><w pos="PONCT" lemma=",">,</w><w pos="CS" lemma="si">si</w><w pos="PONCT" lemma="?">?</w></s></p></sp><sp who="#arthur"><p><s><w pos="CLS" lemma="il">Je</w><w pos="V" lemma="aller">vais</w><w pos="CLO" lemma="le">vous</w><w pos="VINF" lemma="envoyer">envoyer</w><w pos="DET" lemma="-">quinze</w><w pos="NC" lemma="jour">jours</w><w pos="P+D" lemma="-">aux</w><w pos="NC" lemma="travaux">travaux</w><w pos="NC" lemma="forcé">forcés</w><w pos="PONCT" lemma=",">,</w><w pos="CLS" lemma="il">vous</w><w pos="CLR" lemma="se">me</w><w pos="V" lemma="dire">direz</w><w pos="CS" lemma="si">si</w><w pos="CLS" lemma="il">vous</w><w pos="NC" lemma="-">trouvez</w><w pos="CS" lemma="-">que</w><w pos="PRO" lemma="cela">ça</w><w pos="VPP" lemma="faire">fait</w><w pos="NC" lemma="femme">femme</w><w pos="PONCT" lemma="!">!</w></s></p></sp><sp who="#ketchatar"><p><s><w pos="CS" lemma="quand">Quand</w><w pos="DET" lemma="le">les</w><w pos="NC" lemma="saxon">Saxons</w><w pos="V" lemma="aller">vont</w><w pos="NC" lemma="-">débarouler</w><w pos="P" lemma="dans">dans</w><w pos="DET" lemma="le">le</w><w pos="NC" lemma="jardin">jardin</w><w pos="PONCT" lemma=",">,</w><w pos="CLS" lemma="il">on</w><w pos="V" lemma="être">sera</w><w pos="ADV" lemma="bien">bien</w><w pos="ADJ" lemma="content">content</w><w pos="CS" lemma="-">que</w><w pos="DET" lemma="le">les</w><w pos="NC" lemma="gars">gars</w><w pos="NC" lemma="-">sachent</w><w pos="NC" lemma="lire">lire</w><w pos="PONCT" lemma="!">!</w></s><s><w pos="CLS" lemma="il">Ils</w><w pos="V" lemma="pouvoir">pourront</w><w pos="NC" lemma="-">réciter</w><w pos="P+D" lemma="-">du</w><w pos="ADJ" lemma="grec">grec</w><w pos="PONCT" lemma="!">!</w></s></p></sp><sp who="#arthur"><p><s><w pos="I" lemma="-">Ah</w><w pos="CC" lemma="et">et</w><w pos="ADV" lemma="-">puis</w><w pos="NC" lemma="merde">merde</w><w pos="P" lemma="à">à</w><w pos="DET" lemma="le">la</w><w pos="NC" lemma="fin">fin</w><w pos="CLS" lemma="il">je</w><w pos="CLO" lemma="le">vous</w><w pos="V" lemma="demander">demande</w><w pos="ADV" lemma="-">pas</w><w pos="DET" lemma="son">votre</w><w pos="NC" lemma="avis">avis</w><w pos="PONCT" lemma="!">!</w></s><s><w pos="CLS" lemma="il">Je</w><w pos="CLO" lemma="le">vous</w><w pos="V" lemma="dire">dit</w><w pos="P" lemma="de">de</w><w pos="VINF" lemma="faire">faire</w><w pos="P" lemma="comme">comme</w><w pos="PRO" lemma="cela">ça</w><w pos="PONCT" lemma=",">,</w><w pos="CLS" lemma="il">vous</w><w pos="VPP" lemma="faire">faites</w><w pos="P" lemma="comme">comme</w><w pos="PRO" lemma="cela">ça</w><w pos="CC" lemma="et">et</w><w pos="ADV" lemma="-">puis</w><w pos="CLS" lemma="ce">c'</w><w pos="V" lemma="être">est</w><w pos="PRO" lemma="tout">tout</w><w pos="PONCT" lemma="!">!</w></s></p></sp><sp who="#hoel"><p><s><w pos="I" lemma="-">Ah</w><w pos="NC" lemma="-">ben</w><w pos="P" lemma="voilà">voilà</w><w pos="PONCT" lemma="!">!</w></s><s><w pos="CLS" lemma="ce">C'</w><w pos="V" lemma="être">est</w><w pos="DET" lemma="le">la</w><w pos="NC" lemma="crise">crise</w><w pos="P" lemma="de">d'</w><w pos="NC" lemma="autorité">autorité</w><w pos="PONCT" lemma="…">…</w></s></p></sp><sp who="#loth"><p><s><w pos="NC" lemma="-">Bah</w><w pos="PONCT" lemma=",">,</w><w pos="CLS" lemma="ce">c'</w><w pos="V" lemma="être">est</w><w pos="ADV" lemma="bien">bien</w><w pos="DET" lemma="le">la</w><w pos="NC" lemma="peine">peine</w><w pos="P" lemma="de">de</w><w pos="VINF" lemma="faire">faire</w><w pos="DET" lemma="un">des</w><w pos="NC" lemma="réunion">réunions</w><w pos="P" lemma="de">de</w><w pos="DET" lemma="-">trois</w><w pos="NC" lemma="plombe">plombes</w><w pos="P" lemma="pour">pour</w><w pos="CLO" lemma="-">en</w><w pos="VINF" lemma="arriver">arriver</w><w pos="ADV" lemma="là">là</w><w pos="PONCT" lemma=".">.</w></s></p></sp><sp who="#arthur"><p><s><w pos="P+D" lemma="-">Au</w><w pos="NC" lemma="bout">bout</w><w pos="P" lemma="de">d'</w><w pos="DET" lemma="un">un</w><w pos="NC" lemma="moment">moment</w><w pos="CLS" lemma="ce">c'</w><w pos="V" lemma="être">est</w><w pos="PROREL" lemma="qui">qui</w><w pos="DET" lemma="le">le</w><w pos="NC" lemma="patron">patron</w><w pos="PONCT" lemma="?">?</w></s></p></sp><sp who="#ketchatar"><p><s><w pos="PRO" lemma="cela">Ça</w><w pos="V" lemma="aller">va</w><w pos="PONCT" lemma=",">,</w><w pos="PRO" lemma="cela">ça</w><w pos="V" lemma="aller">va</w><w pos="PONCT" lemma=",">,</w><w pos="CLS" lemma="il">on</w><w pos="V" lemma="savoir">sait</w><w pos="PONCT" lemma=",">,</w><w pos="CLS" lemma="il">on</w><w pos="V" lemma="savoir">sait</w><w pos="PONCT" lemma="!">!</w></s></p></sp><sp who="#loth"><p /></sp><sp who="#arthur"><p><s><w pos="NC" lemma="-">Eh</w><w pos="NC" lemma="-">ben</w><w pos="P" lemma="en">en</w><w pos="VPR" lemma="attendre">attendant</w><w pos="CLS" lemma="il">vous</w><w pos="V" lemma="être">êtes</w><w pos="VPP" lemma="arriver">arrivé</w><w pos="DET" lemma="un">une</w><w pos="NC" lemma="demi-heure">demi-heure</w><w pos="ADV" lemma="plus">plus</w><w pos="ADV" lemma="tard">tard</w><w pos="CC" lemma="et">et</w><w pos="P+D" lemma="-">du</w><w pos="NC" lemma="coup">coup</w><w pos="CLS" lemma="ce">c'</w><w pos="V" lemma="être">est</w><w pos="NC" lemma="bibi">bibi</w><w pos="PROREL" lemma="qui">qui</w><w pos="NC" lemma="commande">commande</w><w pos="PONCT" lemma="!">!</w></s></p></sp><sp who="#leodagan"><p><s><w pos="CLS" lemma="ce">C'</w><w pos="V" lemma="être">est</w><w pos="NC" lemma="marrant">marrant</w><w pos="PONCT" lemma=",">,</w><w pos="PRO" lemma="cela">ça</w><w pos="CLS" lemma="il">vous</w><w pos="V" lemma="avoir">a</w><w pos="ADV" lemma="-">pas</w><w pos="ADV" lemma="tellement">tellement</w><w pos="VPP" lemma="apprendre">appris</w><w pos="DET" lemma="le">la</w><w pos="NC" lemma="ponctualité">ponctualité</w><w pos="PONCT" lemma="…">…</w></s></p></sp><sp who="#loth"><p><s><w pos="P" lemma="de">De</w><w pos="PROWH" lemma="quoi?">quoi</w><w pos="PONCT" lemma="?">?</w></s></p></sp><sp who="#hoel"><p><s><w pos="NC" lemma="-">AH</w><w pos="CC" lemma="mais">MAIS</w><w pos="NC" lemma="-">VOUS</w><w pos="NC" lemma="-">ALLEZ</w><w pos="ADV" lemma="-">PAS</w><w pos="NC" lemma="-">COMMENCER</w><w pos="PONCT" lemma="?">?</w></s></p></sp><sp who="#ketchatar"><p><s><w pos="ADV" lemma="alors">Alors</w><w pos="ADV" lemma="là">là</w><w pos="PONCT" lemma=",">,</w><w pos="CLO" lemma="-">y</w><w pos="V" lemma="avoir">a</w><w pos="ADV" lemma="-">que</w><w pos="DET" lemma="le">la</w><w pos="NC" lemma="tarte">tarte</w><w pos="P" lemma="de">de</w><w pos="DET" lemma="le">la</w><w pos="NC" lemma="gueule">gueule</w><w pos="PONCT" lemma=",">,</w><w pos="CLS" lemma="il">je</w><w pos="V" lemma="voir">vois</w><w pos="CS" lemma="-">que</w><w pos="PRO" lemma="cela">ça</w><w pos="PONCT" lemma="!">!</w></s></p></sp><sp who="#leodagan"><p><s><w pos="I" lemma="-">Ah</w><w pos="NC" lemma="oui">oui</w><w pos="PONCT" lemma="?">?</w></s><s><w pos="CC" lemma="et">Et</w><w pos="PROWH" lemma="quiNom?">qui</w><w pos="CLR" lemma="se">s'</w><w pos="V" lemma="être">est</w><w pos="PROREL" lemma="qui">qui</w><w pos="V" lemma="aller">va</w><w pos="CLO" lemma="le">me</w><w pos="DET" lemma="le">la</w><w pos="VINF" lemma="mettre">mettre</w><w pos="PONCT" lemma="?">?</w></s></p></sp><sp who="#loth"><p /></sp><sp who="#maitre-d-armes"><p><s><w pos="CS" lemma="quand">Quand</w><w pos="CLS" lemma="il">on</w><w pos="V" lemma="être">est</w><w pos="ADJ" lemma="idiot">idiot</w><w pos="CLS" lemma="il">on</w><w pos="V" lemma="planter">plante</w><w pos="DET" lemma="un">des</w><w pos="NC" lemma="carotte">carottes</w><w pos="PONCT" lemma=",">,</w><w pos="CLS" lemma="il">on</w><w pos="ADV" lemma="-">ne</w><w pos="CLR" lemma="se">s'</w><w pos="V" lemma="occuper">occupe</w><w pos="ADV" lemma="-">pas</w><w pos="P" lemma="de">de</w><w pos="NC" lemma="sécurité">sécurité</w><w pos="PONCT" lemma="!">!</w></s></p></sp><sp who="#grudu"><p><s><w pos="CLS" lemma="il">Je</w><w pos="V" lemma="aller">vais</w><w pos="CLO" lemma="le">vous</w><w pos="CLO" lemma="-">en</w><w pos="NC" lemma="foutre">foutre</w><w pos="PRO" lemma="lui">moi</w><w pos="P" lemma="de">de</w><w pos="DET" lemma="le">la</w><w pos="NC" lemma="sécurité">sécurité</w><w pos="PONCT" lemma="!">!</w></s></p></sp><sp who="#maitre-d-armes"><p><s><w pos="VIMP" lemma="regarder">Regardez</w><w pos="PONCT" lemma="-">-</w><w pos="PRO" lemma="lui">moi</w><w pos="PRO" lemma="cela">ça</w><w pos="CLR" lemma="se">s'</w><w pos="CLS" lemma="il">il</w><w pos="CLO" lemma="-">y</w><w pos="V" lemma="avoir">a</w><w pos="P+D" lemma="-">du</w><w pos="NC" lemma="style">style</w><w pos="PONCT" lemma="!">!</w></s><s><w pos="P" lemma="de">D'</w><w pos="DET" lemma="un">une</w><w pos="ADJ" lemma="seul">seule</w><w pos="NC" lemma="main">main</w><w pos="CLS" lemma="il">je</w><w pos="CLO" lemma="le">vous</w><w pos="NC" lemma="botte">botte</w><w pos="DET" lemma="le">le</w><w pos="NC" lemma="cul">cul</w><w pos="PONCT" lemma="!">!</w></s></p></sp><sp who="#maitre-d-armes"><p><s><w pos="CC" lemma="mais">Mais</w><w pos="PRO" lemma="lui">vous</w><w pos="V" lemma="être">êtes</w><w pos="ADV" lemma="complètement">complètement</w><w pos="NC" lemma="con">con</w><w pos="PONCT" lemma="!">!</w></s></p></sp><sp who="figurant"><p><s><w pos="NC" lemma="-">Ouais</w><w pos="PONCT" lemma="!">!</w></s></p></sp><sp who="#ketchatar"><p><s><w pos="CLS" lemma="il">Ils</w><w pos="V" lemma="être">sont</w><w pos="NC" lemma="-">rouillés</w><w pos="DET" lemma="le">les</w><w pos="NC" lemma="roi">rois</w><w pos="P" lemma="de">de</w><w pos="NPP" lemma="-">Bretagne</w><w pos="PONCT" lemma="?">?</w></s><s><w pos="CC" lemma="ou">Ou</w><w pos="CLS" lemma="il">ils</w><w pos="V" lemma="être">sont</w><w pos="ADV" lemma="-">pas</w><w pos="NC" lemma="-">rouillés</w><w pos="PONCT" lemma="?">?</w></s></p></sp><sp who="#leodagan"><p><s><w pos="P" lemma="par">Par</w><w pos="P" lemma="contre">contre</w><w pos="CLS" lemma="il">on</w><w pos="V" lemma="avoir">a</w><w pos="PRO" lemma="tout">tout</w><w pos="VPP" lemma="buter">buté</w><w pos="PONCT" lemma=".">.</w></s><s><w pos="CLS" lemma="il">On</w><w pos="V" lemma="pouvoir">peut</w><w pos="ADV" lemma="même">même</w><w pos="ADV" lemma="-">pas</w><w pos="VINF" lemma="savoir">savoir</w><w pos="PROWH" lemma="quiNom?">qui</w><w pos="CLS" lemma="ce">c'</w><w pos="V" lemma="être">est</w><w pos="PONCT" lemma=".">.</w></s></p></sp><sp who="figurant"><p><s><w pos="NC" lemma="-">Orcanie</w><w pos="PONCT" lemma="…">…</w></s><s><w pos="ADJ" lemma="indépendant">indépendante</w><w pos="PONCT" lemma="!">!</w></s></p></sp><sp who="#loth"><p><s><w pos="NC" lemma="-">Oh</w><w pos="DET" lemma="le">le</w><w pos="NC" lemma="con">con</w><w pos="PONCT" lemma="!">!</w></s><s><w pos="CLS" lemma="il">Il</w><w pos="V" lemma="être">est</w><w pos="P" lemma="de">de</w><w pos="P" lemma="chez">chez</w><w pos="PRO" lemma="lui">moi</w><w pos="PONCT" lemma="!">!</w></s></p></sp><sp who="#loth"><p><s><w pos="NC" lemma="-">Oh</w><w pos="I" lemma="pardon">pardon</w><w pos="PONCT" lemma=",">,</w><w pos="I" lemma="oui">oui</w><w pos="NC" lemma="oui">oui</w><w pos="CLS" lemma="ce">c'</w><w pos="V" lemma="être">est</w><w pos="PONCT" lemma="-">-</w><w pos="CLS" lemma="ce">c'</w><w pos="V" lemma="être">est</w><w pos="CS" lemma="-">parce</w><w pos="CS" lemma="-">que</w><w pos="PRO" lemma="cela">ça</w><w pos="PONCT" lemma=",">,</w><w pos="PRO" lemma="cela">ça</w><w pos="VPP" lemma="conduire">conduit</w><w pos="PONCT" lemma=".">.</w></s></p></sp><sp who="#loth"><p><s><w pos="ADJ" lemma="bon">Bon</w><w pos="NC" lemma="-">ben</w><w pos="ADV" lemma="autant">autant</w><w pos="P" lemma="pour">pour</w><w pos="PRO" lemma="lui">moi</w><w pos="PONCT" lemma=".">.</w></s></p></sp><schemaSpec ident="TEI-minimal" start="TEI"><moduleRef key="analysis" /><moduleRef key="tei" /><moduleRef key="header" /><moduleRef key="core" /><moduleRef key="textstructure" /></schemaSpec></body></text></TEI>
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kaamelott : L’assemblée des rois, 2ème partie (S03E27)</title>
+                <author>Alexandre Astier</author>
+                <respStmt>
+                    <resp>édité par</resp>
+                    <name>Alexandre Roulois</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>CALT, Dies Irae, Shortcom</publisher>
+                <pubPlace>Paris</pubPlace>
+                <date>2005</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Document numérique natif.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <castList>
+                <castItem>
+                    <role xml:id="arthur">Arthur Pendragon</role>
+                    <actor>Alexandre Astier</actor>
+                </castItem>
+                <castItem>
+                    <role xml:id="calogrenant">Calogrenant</role>
+                    <actor>Stéphane Margot</actor>
+                </castItem>
+                <castItem>
+                    <role xml:id="grudu">Grüdü</role>
+                    <actor>Thibault Roux</actor>
+                </castItem>
+                <castItem>
+                    <role xml:id="hoel">Hoël d’Armorique</role>
+                    <actor>Eddy Letexier</actor>
+                </castItem>
+                <castItem>
+                    <role xml:id="ketchatar">Ketchatar</role>
+                    <actor>Valentin Traversi</actor>
+                </castItem>
+                <castItem>
+                    <role xml:id="maitre-d-armes">Le maître d’armes</role>
+                    <actor>Christian Bujeau</actor>
+                </castItem>
+                <castItem>
+                    <role xml:id="leodagan">Léodagan</role>
+                    <actor>Lionnel Astier</actor>
+                </castItem>
+                <castItem>
+                    <role xml:id="loth">Loth d’Orcanie</role>
+                    <actor>François Rollin</actor>
+                </castItem>
+            </castList>
+        </front>
+        <body>
+            <sp who="#grudu">
+                <p>
+                    <s>
+                        <w pos="CC" lemma="mais">Mais</w>
+                        <w pos="ADVWH" lemma="pourquoi?">pourquoi</w>
+                        <w pos="CLS" lemma="il">j'</w>
+                        <w pos="NC" lemma="-">irais</w>
+                        <w pos="P" lemma="à">à</w>
+                        <w pos="DET" lemma="le">la</w>
+                        <w pos="NC" lemma="porte">porte</w>
+                        <w pos="ADJ" lemma="arrière">arrière</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="PRO" lemma="lui">moi</w>
+                        <w pos="PONCT" lemma="?">?</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#maitre-d-armes">
+                <p>
+                    <s>
+                        <w pos="CS" lemma="-">Parce</w>
+                        <w pos="CS" lemma="-">qu'</w>
+                        <w pos="CLS" lemma="il">il</w>
+                        <w pos="V" lemma="faillir">faut</w>
+                        <w pos="ADV" lemma="bien">bien</w>
+                        <w pos="CS" lemma="-">que</w>
+                        <w pos="DET" lemma="quelque">quelqu'</w>
+                        <w pos="PRO" lemma="un">un</w>
+                        <w pos="CLO" lemma="-">y</w>
+                        <w pos="V" lemma="ailler">aille</w>
+                        <w pos="PONCT" lemma="!">!</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#grudu">
+                <p>
+                    <s>
+                        <w pos="CC" lemma="mais">Mais</w>
+                        <w pos="P" lemma="de">de</w>
+                        <w pos="DET" lemma="tout">toute</w>
+                        <w pos="NC" lemma="façon">façon</w>
+                        <w pos="CS" lemma="si">si</w>
+                        <w pos="CLO" lemma="-">y</w>
+                        <w pos="V" lemma="avoir">a</w>
+                        <w pos="DET" lemma="un">un</w>
+                        <w pos="NC" lemma="attentat">attentat</w>
+                        <w pos="CLS" lemma="il">on</w>
+                        <w pos="V" lemma="être">est</w>
+                        <w pos="ADV" lemma="-">pas</w>
+                        <w pos="ADV" lemma="assez">assez</w>
+                        <w pos="P" lemma="pour">pour</w>
+                        <w pos="VINF" lemma="repousser">repousser</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="ADV" lemma="autant">autant</w>
+                        <w pos="VINF" lemma="rester">rester</w>
+                        <w pos="NC" lemma="-">groupés</w>
+                        <w pos="PONCT" lemma="!">!</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#maitre-d-armes">
+                <p>
+                    <s>
+                        <w pos="CC" lemma="mais">Mais</w>
+                        <w pos="DET" lemma="le">la</w>
+                        <w pos="V" lemma="porter">porte</w>
+                        <w pos="ADJ" lemma="arrière">arrière</w>
+                        <w pos="V" lemma="être">est</w>
+                        <w pos="ADV" lemma="-">pas</w>
+                        <w pos="VPP" lemma="garder">gardée</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="CLO" lemma="-">y</w>
+                        <w pos="V" lemma="avoir">a</w>
+                        <w pos="ADV" lemma="juste">juste</w>
+                        <w pos="P" lemma="à">à</w>
+                        <w pos="VINF" lemma="lever">lever</w>
+                        <w pos="DET" lemma="le">le</w>
+                        <w pos="NC" lemma="loquet">loquet</w>
+                        <w pos="PONCT" lemma="!">!</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#grudu">
+                <p>
+                    <s>
+                        <w pos="NC" lemma="-">Eh</w>
+                        <w pos="NC" lemma="-">ben</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="CLS" lemma="il">on</w>
+                        <w pos="V" lemma="lever">lève</w>
+                        <w pos="DET" lemma="le">le</w>
+                        <w pos="NC" lemma="loquet">loquet</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="CLS" lemma="il">on</w>
+                        <w pos="V" lemma="entendre">entend</w>
+                        <w pos="DET" lemma="le">le</w>
+                        <w pos="NC" lemma="loquet">loquet</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="CLS" lemma="il">on</w>
+                        <w pos="CLO" lemma="-">y</w>
+                        <w pos="V" lemma="aller">va</w>
+                        <w pos="CC" lemma="et">et</w>
+                        <w pos="CLS" lemma="il">on</w>
+                        <w pos="CLO" lemma="le">les</w>
+                        <w pos="NC" lemma="-">bousille</w>
+                        <w pos="PONCT" lemma="!">!</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#maitre-d-armes">
+                <p>
+                    <s>
+                        <w pos="CC" lemma="mais">Mais</w>
+                        <w pos="DET" lemma="le">le</w>
+                        <w pos="NC" lemma="temps">temps</w>
+                        <w pos="PROREL" lemma="que">qu'</w>
+                        <w pos="CLS" lemma="il">on</w>
+                        <w pos="CLO" lemma="-">y</w>
+                        <w pos="V" lemma="ailler">aille</w>
+                        <w pos="CLS" lemma="il">ils</w>
+                        <w pos="V" lemma="avoir">auront</w>
+                        <w pos="ADV" lemma="déjà">déjà</w>
+                        <w pos="VPP" lemma="buter">buté</w>
+                        <w pos="ADV" lemma="tout">tout</w>
+                        <w pos="DET" lemma="le">le</w>
+                        <w pos="NC" lemma="monde">monde</w>
+                        <w pos="PONCT" lemma="!">!</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#grudu">
+                <p>
+                    <s>
+                        <w pos="ADV" lemma="non">Non</w>
+                        <w pos="CC" lemma="mais">mais</w>
+                        <w pos="CLS" lemma="il">on</w>
+                        <w pos="CLR" lemma="se">se</w>
+                        <w pos="NC" lemma="-">grouille</w>
+                        <w pos="PONCT" lemma=".">.</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#ketchatar">
+                <p>
+                    <s>
+                        <w pos="CC" lemma="mais">Mais</w>
+                        <w pos="CLS" lemma="il">je</w>
+                        <w pos="V" lemma="dire">dis</w>
+                        <w pos="ADV" lemma="-">pas</w>
+                        <w pos="CS" lemma="-">que</w>
+                        <w pos="CLS" lemma="il">je</w>
+                        <w pos="CLO" lemma="le">me</w>
+                        <w pos="ADJ" lemma="fou">fous</w>
+                        <w pos="P" lemma="de">de</w>
+                        <w pos="DET" lemma="le">l'</w>
+                        <w pos="NC" lemma="éducation">éducation</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="CLS" lemma="il">je</w>
+                        <w pos="V" lemma="dire">dis</w>
+                        <w pos="CS" lemma="-">qu'</w>
+                        <w pos="CLS" lemma="ce">c'</w>
+                        <w pos="V" lemma="être">est</w>
+                        <w pos="ADV" lemma="-">pas</w>
+                        <w pos="DET" lemma="un">une</w>
+                        <w pos="NC" lemma="priorité">priorité</w>
+                        <w pos="PONCT" lemma=".">.</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#hoel">
+                <p>
+                    <s>
+                        <w pos="NPP" lemma="-">Ben</w>
+                        <w pos="ADV" lemma="évidemment">évidemment</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="CLO" lemma="-">y</w>
+                        <w pos="V" lemma="avoir">a</w>
+                        <w pos="ADV" lemma="-">que</w>
+                        <w pos="DET" lemma="un">des</w>
+                        <w pos="ADJ" lemma="vieux">vieux</w>
+                        <w pos="P" lemma="chez">chez</w>
+                        <w pos="PRO" lemma="lui">vous</w>
+                        <w pos="PONCT" lemma="!">!</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#ketchatar">
+                <p>
+                    <s>
+                        <w pos="CC" lemma="mais">Mais</w>
+                        <w pos="CLS" lemma="il">je</w>
+                        <w pos="CLO" lemma="le">vous</w>
+                        <w pos="NC" lemma="emmerde">emmerde</w>
+                        <w pos="DET" lemma="son">mon</w>
+                        <w pos="ADJ" lemma="petit">petit</w>
+                        <w pos="NC" lemma="pote">pote</w>
+                        <w pos="PONCT" lemma="!">!</w>
+                    </s>
+                    <s>
+                        <w pos="P+D" lemma="-">Au</w>
+                        <w pos="NC" lemma="bout">bout</w>
+                        <w pos="P" lemma="de">d'</w>
+                        <w pos="DET" lemma="un">un</w>
+                        <w pos="NC" lemma="moment">moment</w>
+                        <w pos="PROREL" lemma="que">qu'</w>
+                        <w pos="V" lemma="être">est</w>
+                        <w pos="PONCT" lemma="-">-</w>
+                        <w pos="CLS" lemma="ce">ce</w>
+                        <w pos="CS" lemma="-">qu'</w>
+                        <w pos="CLS" lemma="il">on</w>
+                        <w pos="CLO" lemma="-">en</w>
+                        <w pos="V" lemma="avoir">a</w>
+                        <w pos="P" lemma="à">à</w>
+                        <w pos="NC" lemma="foutre">foutre</w>
+                        <w pos="CS" lemma="-">que</w>
+                        <w pos="DET" lemma="le">les</w>
+                        <w pos="NC" lemma="môme">mômes</w>
+                        <w pos="CLS" lemma="il">ils</w>
+                        <w pos="VS" lemma="être">soient</w>
+                        <w pos="NC" lemma="illettré">illettrés</w>
+                        <w pos="PONCT" lemma="!">!</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#loth">
+                <p/>
+            </sp>
+            <sp who="#leodagan">
+                <p>
+                    <s>
+                        <w pos="NC" lemma="-">Eh</w>
+                        <w pos="NC" lemma="-">ben</w>
+                        <w pos="CLO" lemma="le">vous</w>
+                        <w pos="V" lemma="avoir">avez</w>
+                        <w pos="P" lemma="de">de</w>
+                        <w pos="DET" lemma="le">la</w>
+                        <w pos="NC" lemma="chance">chance</w>
+                        <w pos="PONCT" lemma=".">.</w>
+                    </s>
+                    <s>
+                        <w pos="CS" lemma="-">Parce</w>
+                        <w pos="CS" lemma="-">que</w>
+                        <w pos="PRO" lemma="lui">moi</w>
+                        <w pos="CLS" lemma="il">j'</w>
+                        <w pos="V" lemma="avoir">ai</w>
+                        <w pos="VPP" lemma="apprendre">appris</w>
+                        <w pos="P" lemma="à">à</w>
+                        <w pos="VINF" lemma="lire">lire</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="I" lemma="eh">eh</w>
+                        <w pos="NC" lemma="-">ben</w>
+                        <w pos="CLS" lemma="il">je</w>
+                        <w pos="V" lemma="souhaiter">souhaite</w>
+                        <w pos="PRO" lemma="cela">ça</w>
+                        <w pos="P" lemma="à">à</w>
+                        <w pos="NC" lemma="personne">personne</w>
+                        <w pos="PONCT" lemma=".">.</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#arthur">
+                <p>
+                    <s>
+                        <w pos="NC" lemma="-">Attendez</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="CLS" lemma="il">je</w>
+                        <w pos="V" lemma="comprendre">comprends</w>
+                        <w pos="ADV" lemma="-">pas</w>
+                        <w pos="PONCT" lemma=".">.</w>
+                    </s>
+                    <s>
+                        <w pos="DET" lemma="le">La</w>
+                        <w pos="ADJ" lemma="dernier">dernière</w>
+                        <w pos="NC" lemma="assemblée">Assemblée</w>
+                        <w pos="P+D" lemma="-">des</w>
+                        <w pos="NC" lemma="roi">Rois</w>
+                        <w pos="CLO" lemma="-">y</w>
+                        <w pos="V" lemma="avoir">a</w>
+                        <w pos="DET" lemma="-">quatre</w>
+                        <w pos="NC" lemma="an">ans</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="CLS" lemma="il">on</w>
+                        <w pos="V" lemma="avoir">avait</w>
+                        <w pos="VPP" lemma="dire">dit</w>
+                        <w pos="CS" lemma="-">qu'</w>
+                        <w pos="CLS" lemma="il">il</w>
+                        <w pos="V" lemma="falloir">fallait</w>
+                        <w pos="VINF" lemma="oser">oser</w>
+                        <w pos="DET" lemma="un">une</w>
+                        <w pos="NC" lemma="politique">politique</w>
+                        <w pos="ADJ" lemma="progressiste">progressiste</w>
+                        <w pos="PONCT" lemma=".">.</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#arthur">
+                <p>
+                    <s>
+                        <w pos="PROWH" lemma="quiNom?">Qui</w>
+                        <w pos="V" lemma="avoir">avait</w>
+                        <w pos="VPP" lemma="comprendre">compris</w>
+                        <w pos="DET" lemma="le">la</w>
+                        <w pos="NC" lemma="phrase">phrase</w>
+                        <w pos="PONCT" lemma="?">?</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#arthur">
+                <p>
+                    <s>
+                        <w pos="I" lemma="-">Ah</w>
+                        <w pos="ADV" lemma="non">non</w>
+                        <w pos="CC" lemma="mais">mais</w>
+                        <w pos="CLS" lemma="il">vous</w>
+                        <w pos="CLO" lemma="le">vous</w>
+                        <w pos="NC" lemma="-">foutez</w>
+                        <w pos="DET" lemma="un">de</w>
+                        <w pos="PRO" lemma="lui">moi</w>
+                        <w pos="PONCT" lemma="…">…</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#loth">
+                <p>
+                    <s>
+                        <w pos="ADV" lemma="non">Non</w>
+                        <w pos="P" lemma="en">en</w>
+                        <w pos="ADV" lemma="plus">plus</w>
+                        <w pos="CLS" lemma="ce">c'</w>
+                        <w pos="V" lemma="être">est</w>
+                        <w pos="ADV" lemma="-">pas</w>
+                        <w pos="ADJ" lemma="vrai">vrai</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="CLS" lemma="il">j'</w>
+                        <w pos="V" lemma="avoir">avais</w>
+                        <w pos="ADV" lemma="-">pas</w>
+                        <w pos="VPP" lemma="comprendre">compris</w>
+                        <w pos="PONCT" lemma="…">…</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#leodagan">
+                <p>
+                    <s>
+                        <w pos="CC" lemma="mais">Mais</w>
+                        <w pos="PRO" lemma="lui">vous</w>
+                        <w pos="VPP" lemma="faire">faites</w>
+                        <w pos="DET" lemma="un">des</w>
+                        <w pos="NC" lemma="phrase">phrases</w>
+                        <w pos="PONCT" lemma="!">!</w>
+                    </s>
+                    <s>
+                        <w pos="CLS" lemma="ce">C'</w>
+                        <w pos="V" lemma="être">est</w>
+                        <w pos="ADJ" lemma="sûr">sûr</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="CLS" lemma="il">nous</w>
+                        <w pos="CLS" lemma="il">on</w>
+                        <w pos="V" lemma="dire">dit</w>
+                        <w pos="PONCT" lemma="&quot;">&quot;</w>
+                        <w pos="NC" lemma="oui">oui</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="ADV" lemma="oui">oui</w>
+                        <w pos="PONCT" lemma="&quot;">&quot;</w>
+                        <w pos="P" lemma="pour">pour</w>
+                        <w pos="ADV" lemma="-">pas</w>
+                        <w pos="VINF" lemma="casser">casser</w>
+                        <w pos="DET" lemma="le">l'</w>
+                        <w pos="NC" lemma="ambiance">ambiance</w>
+                        <w pos="PONCT" lemma="!">!</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#ketchatar">
+                <p>
+                    <s>
+                        <w pos="P" lemma="de">De</w>
+                        <w pos="ADV" lemma="là">là</w>
+                        <w pos="P" lemma="à">à</w>
+                        <w pos="NC" lemma="-">balancer</w>
+                        <w pos="ADV" lemma="tout">tout</w>
+                        <w pos="DET" lemma="le">le</w>
+                        <w pos="NC" lemma="pognon">pognon</w>
+                        <w pos="P" lemma="dans">dans</w>
+                        <w pos="DET" lemma="le">les</w>
+                        <w pos="NC" lemma="école">écoles</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="V" lemma="faillir">faut</w>
+                        <w pos="ADV" lemma="peut-être">peut-être</w>
+                        <w pos="ADV" lemma="-">pas</w>
+                        <w pos="VINF" lemma="pousser">pousser</w>
+                        <w pos="PONCT" lemma=".">.</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#loth">
+                <p/>
+            </sp>
+            <sp who="#hoel">
+                <p>
+                    <s>
+                        <w pos="I" lemma="-">Ah</w>
+                        <w pos="CC" lemma="mais">mais</w>
+                        <w pos="ADV" lemma="-">n'</w>
+                        <w pos="V" lemma="empêcher">empêche</w>
+                        <w pos="ADV" lemma="-">que</w>
+                        <w pos="P" lemma="pendant">pendant</w>
+                        <w pos="CS" lemma="-">qu'</w>
+                        <w pos="CLO" lemma="-">y</w>
+                        <w pos="V" lemma="être">sont</w>
+                        <w pos="P" lemma="à">à</w>
+                        <w pos="DET" lemma="le">l'</w>
+                        <w pos="NC" lemma="école">école</w>
+                        <w pos="CLO" lemma="-">y</w>
+                        <w pos="V" lemma="être">sont</w>
+                        <w pos="ADV" lemma="-">pas</w>
+                        <w pos="P" lemma="dans">dans</w>
+                        <w pos="DET" lemma="le">les</w>
+                        <w pos="NC" lemma="taverne">tavernes</w>
+                        <w pos="PONCT" lemma="!">!</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#ketchatar">
+                <p>
+                    <s>
+                        <w pos="CLS" lemma="il">Vous</w>
+                        <w pos="NC" lemma="-">trouvez</w>
+                        <w pos="CS" lemma="-">qu'</w>
+                        <w pos="CLO" lemma="-">y</w>
+                        <w pos="V" lemma="avoir">a</w>
+                        <w pos="P" lemma="de">de</w>
+                        <w pos="PROWH" lemma="quoi?">quoi</w>
+                        <w pos="VINF" lemma="flamber">flamber</w>
+                        <w pos="PONCT" lemma="?">?</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#calogrenant">
+                <p>
+                    <s>
+                        <w pos="DET" lemma="le">La</w>
+                        <w pos="NC" lemma="taverne">taverne</w>
+                        <w pos="CLS" lemma="ce">c'</w>
+                        <w pos="V" lemma="être">est</w>
+                        <w pos="DET" lemma="un">un</w>
+                        <w pos="NC" lemma="lieu">lieu</w>
+                        <w pos="P" lemma="de">de</w>
+                        <w pos="NC" lemma="fraternité">fraternité</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="ADV" lemma="-">tandis</w>
+                        <w pos="CS" lemma="-">que</w>
+                        <w pos="DET" lemma="le">la</w>
+                        <w pos="NC" lemma="lecture">lecture</w>
+                        <w pos="CLS" lemma="ce">c'</w>
+                        <w pos="V" lemma="être">est</w>
+                        <w pos="ADJ" lemma="solitaire">solitaire</w>
+                        <w pos="PONCT" lemma=".">.</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#loth">
+                <p>
+                    <s>
+                        <w pos="CS" lemma="si">Si</w>
+                        <w pos="CLS" lemma="il">ils</w>
+                        <w pos="V" lemma="faire">font</w>
+                        <w pos="PRO" lemma="tout">tout</w>
+                        <w pos="P" lemma="en">en</w>
+                        <w pos="ADJ" lemma="solitaire">solitaire</w>
+                        <w pos="PONCT" lemma="…">…</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#ketchatar">
+                <p>
+                    <s>
+                        <w pos="PONCT" lemma="…">…</w>
+                    </s>
+                    <s>
+                        <w pos="NPP" lemma="-">Ben</w>
+                        <w pos="NC" lemma="oui">oui</w>
+                        <w pos="CLS" lemma="il">il</w>
+                        <w pos="V" lemma="aller">va</w>
+                        <w pos="CLO" lemma="-">y</w>
+                        <w pos="VINF" lemma="avoir">avoir</w>
+                        <w pos="DET" lemma="un">une</w>
+                        <w pos="NC" lemma="chute">chute</w>
+                        <w pos="P" lemma="de">de</w>
+                        <w pos="PONCT" lemma="…">…</w>
+                    </s>
+                    <s>
+                        <w pos="NC" lemma="truc">truc</w>
+                        <w pos="ADV" lemma="là">là</w>
+                        <w pos="PONCT" lemma="…">…</w>
+                    </s>
+                    <s>
+                        <w pos="NC" lemma="-">euh</w>
+                        <w pos="CS" lemma="quand">quand</w>
+                        <w pos="CLO" lemma="-">y</w>
+                        <w pos="V" lemma="avoir">a</w>
+                        <w pos="VPP" lemma="pouvoir">pu</w>
+                        <w pos="NC" lemma="personne">personne</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="ADV" lemma="là">là</w>
+                        <w pos="PONCT" lemma="!">!</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#arthur">
+                <p>
+                    <s>
+                        <w pos="NC" lemma="-">Démographique</w>
+                        <w pos="PONCT" lemma=".">.</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#ketchatar">
+                <p>
+                    <s>
+                        <w pos="ADV" lemma="non">Non</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="ADJ" lemma="démographique">démographique</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="CLS" lemma="ce">c'</w>
+                        <w pos="V" lemma="être">est</w>
+                        <w pos="PRO" lemma="tout">tout</w>
+                        <w pos="PRO" lemma="-">ce</w>
+                        <w pos="PROREL" lemma="qui">qui</w>
+                        <w pos="CLR" lemma="se">se</w>
+                        <w pos="V" lemma="passer">passe</w>
+                        <w pos="P" lemma="à">à</w>
+                        <w pos="DET" lemma="le">la</w>
+                        <w pos="NC" lemma="campagne">campagne</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="ADV" lemma="non">non</w>
+                        <w pos="PONCT" lemma="?">?</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#arthur">
+                <p>
+                    <s>
+                        <w pos="ADJ" lemma="agricole">Agricole</w>
+                        <w pos="PONCT" lemma="…">…</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#ketchatar">
+                <p>
+                    <s>
+                        <w pos="ADV" lemma="oui">Oui</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="V" lemma="voilà">voilà</w>
+                        <w pos="PONCT" lemma=".">.</w>
+                    </s>
+                    <s>
+                        <w pos="ADJ" lemma="agricole">Agricole</w>
+                        <w pos="PONCT" lemma=".">.</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#grudu">
+                <p>
+                    <s>
+                        <w pos="CLS" lemma="il">Il</w>
+                        <w pos="CLO" lemma="le">me</w>
+                        <w pos="V" lemma="sembler">semble</w>
+                        <w pos="VINF" lemma="avoir">avoir</w>
+                        <w pos="VPP" lemma="entendre">entendu</w>
+                        <w pos="P" lemma="comme">comme</w>
+                        <w pos="DET" lemma="un">un</w>
+                        <w pos="NC" lemma="bruit">bruit</w>
+                        <w pos="PONCT" lemma="…">…</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#maitre-d-armes">
+                <p>
+                    <s>
+                        <w pos="DET" lemma="un">Un</w>
+                        <w pos="NC" lemma="bruit">bruit</w>
+                        <w pos="P" lemma="de">de</w>
+                        <w pos="PRO" lemma="-">quoi</w>
+                        <w pos="PONCT" lemma="?">?</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#grudu">
+                <p>
+                    <s>
+                        <w pos="P" lemma="comme">Comme</w>
+                        <w pos="DET" lemma="un">un</w>
+                        <w pos="NC" lemma="grincement">grincement</w>
+                        <w pos="PONCT" lemma=".">.</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#maitre-d-armes">
+                <p>
+                    <s>
+                        <w pos="CC" lemma="mais">Mais</w>
+                        <w pos="DET" lemma="un">un</w>
+                        <w pos="NC" lemma="grincement">grincement</w>
+                        <w pos="ADVWH" lemma="comment?">comment</w>
+                        <w pos="PONCT" lemma="?">?</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#maitre-d-armes">
+                <p>
+                    <s>
+                        <w pos="ADV" lemma="oui">Oui</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="DET" lemma="un">une</w>
+                        <w pos="V" lemma="porter">porte</w>
+                        <w pos="PROREL" lemma="qui">qui</w>
+                        <w pos="NC" lemma="-">grince</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="ADV" lemma="oui">oui</w>
+                        <w pos="PONCT" lemma="!">!</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#grudu">
+                <p>
+                    <s>
+                        <w pos="ADV" lemma="non">Non</w>
+                        <w pos="CC" lemma="mais">mais</w>
+                        <w pos="ADV" lemma="là">là</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="P" lemma="dans">dans</w>
+                        <w pos="DET" lemma="le">le</w>
+                        <w pos="NC" lemma="contexte">contexte</w>
+                        <w pos="PONCT" lemma="…">…</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#maitre-d-armes">
+                <p>
+                    <s>
+                        <w pos="NC" lemma="-">Eh</w>
+                        <w pos="NC" lemma="-">ben</w>
+                        <w pos="PONCT" lemma="?">?</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#grudu">
+                <p>
+                    <s>
+                        <w pos="CS" lemma="si">Si</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="NC" lemma="-">remarquez</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="DET" lemma="un">une</w>
+                        <w pos="V" lemma="porter">porte</w>
+                        <w pos="PROREL" lemma="qui">qui</w>
+                        <w pos="NC" lemma="-">grince</w>
+                        <w pos="PONCT" lemma=".">.</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#maitre-d-armes">
+                <p>
+                    <s>
+                        <w pos="P" lemma="par">Par</w>
+                        <w pos="NC" lemma="exemple">exemple</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="ADV" lemma="oui">oui</w>
+                        <w pos="PONCT" lemma=".">.</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#grudu">
+                <p>
+                    <s>
+                        <w pos="CLS" lemma="il">J'</w>
+                        <w pos="NC" lemma="-">irais</w>
+                        <w pos="ADV" lemma="bien">bien</w>
+                        <w pos="VINF" lemma="voir">voir</w>
+                        <w pos="CC" lemma="mais">mais</w>
+                        <w pos="CLS" lemma="il">je</w>
+                        <w pos="V" lemma="pouvoir">peux</w>
+                        <w pos="ADV" lemma="-">pas</w>
+                        <w pos="VINF" lemma="laisser">laisser</w>
+                        <w pos="DET" lemma="le">l'</w>
+                        <w pos="NC" lemma="entrée">entrée</w>
+                        <w pos="P" lemma="sans">sans</w>
+                        <w pos="NC" lemma="surveillance">surveillance</w>
+                        <w pos="PONCT" lemma=".">.</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#maitre-d-armes">
+                <p>
+                    <s>
+                        <w pos="CC" lemma="mais">Mais</w>
+                        <w pos="PRO" lemma="lui">moi</w>
+                        <w pos="CLS" lemma="il">je</w>
+                        <w pos="V" lemma="rester">reste</w>
+                        <w pos="PONCT" lemma="!">!</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#grudu">
+                <p>
+                    <s>
+                        <w pos="CLS" lemma="il">J'</w>
+                        <w pos="V" lemma="abandonner">abandonne</w>
+                        <w pos="ADV" lemma="jamais">jamais</w>
+                        <w pos="DET" lemma="son">mon</w>
+                        <w pos="NC" lemma="poste">poste</w>
+                        <w pos="PONCT" lemma=".">.</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#maitre-d-armes">
+                <p>
+                    <s>
+                        <w pos="ADJ" lemma="bon">Bon</w>
+                        <w pos="NC" lemma="-">ben</w>
+                        <w pos="CLS" lemma="il">j'</w>
+                        <w pos="CLO" lemma="-">y</w>
+                        <w pos="V" lemma="aller">vais</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="PRO" lemma="lui">moi</w>
+                        <w pos="PONCT" lemma="!">!</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#grudu">
+                <p>
+                    <s>
+                        <w pos="CS" lemma="si">Si</w>
+                        <w pos="CLS" lemma="il">vous</w>
+                        <w pos="NC" lemma="-">abandonnez</w>
+                        <w pos="DET" lemma="son">votre</w>
+                        <w pos="NC" lemma="poste">poste</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="CLS" lemma="il">je</w>
+                        <w pos="CLO" lemma="le">vous</w>
+                        <w pos="NC" lemma="défonce">défonce</w>
+                        <w pos="PONCT" lemma=".">.</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#maitre-d-armes">
+                <p>
+                    <s>
+                        <w pos="P" lemma="sans">Sans</w>
+                        <w pos="NC" lemma="blague">blague</w>
+                        <w pos="PONCT" lemma="…">…</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#hoel">
+                <p>
+                    <s>
+                        <w pos="NC" lemma="-">VOUS</w>
+                        <w pos="NC" lemma="-">ÊTES</w>
+                        <w pos="DET" lemma="le">LA</w>
+                        <w pos="NC" lemma="pire">PIRE</w>
+                        <w pos="NC" lemma="bande">BANDE</w>
+                        <w pos="P" lemma="de">DE</w>
+                        <w pos="NC" lemma="bon">BONS</w>
+                        <w pos="P" lemma="à">À</w>
+                        <w pos="NC" lemma="rien">RIEN</w>
+                        <w pos="P+D" lemma="-">DU</w>
+                        <w pos="NC" lemma="monde">MONDE</w>
+                        <w pos="NC" lemma="celte">CELTE</w>
+                        <w pos="PONCT" lemma="!">!</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#loth">
+                <p>
+                    <s>
+                        <w pos="CLS" lemma="il">Je</w>
+                        <w pos="ADV" lemma="-">ne</w>
+                        <w pos="NC" lemma="-">reviendrai</w>
+                        <w pos="ADV" lemma="plus">plus</w>
+                        <w pos="ADV" lemma="jamais">jamais</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="DET" lemma="ce">cette</w>
+                        <w pos="NC" lemma="foi">fois</w>
+                        <w pos="CLS" lemma="il">je</w>
+                        <w pos="CLO" lemma="le">le</w>
+                        <w pos="V" lemma="dire">dis</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="CLS" lemma="il">je</w>
+                        <w pos="CLO" lemma="le">le</w>
+                        <w pos="V" lemma="faire">fais</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="CLS" lemma="il">je</w>
+                        <w pos="V" lemma="rester">reste</w>
+                        <w pos="P" lemma="chez">chez</w>
+                        <w pos="PRO" lemma="lui">moi</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="NC" lemma="merde">merde</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="PRO" lemma="cela">ça</w>
+                        <w pos="V" lemma="suffire">suffit</w>
+                        <w pos="PONCT" lemma=".">.</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#leodagan">
+                <p>
+                    <s>
+                        <w pos="CLS" lemma="il">On</w>
+                        <w pos="CLO" lemma="-">en</w>
+                        <w pos="V" lemma="avoir">a</w>
+                        <w pos="ADV" lemma="déjà">déjà</w>
+                        <w pos="DET" lemma="un">un</w>
+                        <w pos="PROREL" lemma="qui">qui</w>
+                        <w pos="V" lemma="gouverner">gouverne</w>
+                        <w pos="P" lemma="comme">comme</w>
+                        <w pos="DET" lemma="un">une</w>
+                        <w pos="NC" lemma="femme">femme</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="CLS" lemma="il">on</w>
+                        <w pos="V" lemma="aller">va</w>
+                        <w pos="ADV" lemma="-">pas</w>
+                        <w pos="P" lemma="en">en</w>
+                        <w pos="VINF" lemma="faire">faire</w>
+                        <w pos="NC" lemma="collection">collection</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="CS" lemma="si">si</w>
+                        <w pos="PONCT" lemma="?">?</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#arthur">
+                <p>
+                    <s>
+                        <w pos="CLS" lemma="il">Je</w>
+                        <w pos="V" lemma="aller">vais</w>
+                        <w pos="CLO" lemma="le">vous</w>
+                        <w pos="VINF" lemma="envoyer">envoyer</w>
+                        <w pos="DET" lemma="-">quinze</w>
+                        <w pos="NC" lemma="jour">jours</w>
+                        <w pos="P+D" lemma="-">aux</w>
+                        <w pos="NC" lemma="travaux">travaux</w>
+                        <w pos="NC" lemma="forcé">forcés</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="CLS" lemma="il">vous</w>
+                        <w pos="CLR" lemma="se">me</w>
+                        <w pos="V" lemma="dire">direz</w>
+                        <w pos="CS" lemma="si">si</w>
+                        <w pos="CLS" lemma="il">vous</w>
+                        <w pos="NC" lemma="-">trouvez</w>
+                        <w pos="CS" lemma="-">que</w>
+                        <w pos="PRO" lemma="cela">ça</w>
+                        <w pos="VPP" lemma="faire">fait</w>
+                        <w pos="NC" lemma="femme">femme</w>
+                        <w pos="PONCT" lemma="!">!</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#ketchatar">
+                <p>
+                    <s>
+                        <w pos="CS" lemma="quand">Quand</w>
+                        <w pos="DET" lemma="le">les</w>
+                        <w pos="NC" lemma="saxon">Saxons</w>
+                        <w pos="V" lemma="aller">vont</w>
+                        <w pos="NC" lemma="-">débarouler</w>
+                        <w pos="P" lemma="dans">dans</w>
+                        <w pos="DET" lemma="le">le</w>
+                        <w pos="NC" lemma="jardin">jardin</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="CLS" lemma="il">on</w>
+                        <w pos="V" lemma="être">sera</w>
+                        <w pos="ADV" lemma="bien">bien</w>
+                        <w pos="ADJ" lemma="content">content</w>
+                        <w pos="CS" lemma="-">que</w>
+                        <w pos="DET" lemma="le">les</w>
+                        <w pos="NC" lemma="gars">gars</w>
+                        <w pos="NC" lemma="-">sachent</w>
+                        <w pos="NC" lemma="lire">lire</w>
+                        <w pos="PONCT" lemma="!">!</w>
+                    </s>
+                    <s>
+                        <w pos="CLS" lemma="il">Ils</w>
+                        <w pos="V" lemma="pouvoir">pourront</w>
+                        <w pos="NC" lemma="-">réciter</w>
+                        <w pos="P+D" lemma="-">du</w>
+                        <w pos="ADJ" lemma="grec">grec</w>
+                        <w pos="PONCT" lemma="!">!</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#arthur">
+                <p>
+                    <s>
+                        <w pos="I" lemma="-">Ah</w>
+                        <w pos="CC" lemma="et">et</w>
+                        <w pos="ADV" lemma="-">puis</w>
+                        <w pos="NC" lemma="merde">merde</w>
+                        <w pos="P" lemma="à">à</w>
+                        <w pos="DET" lemma="le">la</w>
+                        <w pos="NC" lemma="fin">fin</w>
+                        <w pos="CLS" lemma="il">je</w>
+                        <w pos="CLO" lemma="le">vous</w>
+                        <w pos="V" lemma="demander">demande</w>
+                        <w pos="ADV" lemma="-">pas</w>
+                        <w pos="DET" lemma="son">votre</w>
+                        <w pos="NC" lemma="avis">avis</w>
+                        <w pos="PONCT" lemma="!">!</w>
+                    </s>
+                    <s>
+                        <w pos="CLS" lemma="il">Je</w>
+                        <w pos="CLO" lemma="le">vous</w>
+                        <w pos="V" lemma="dire">dit</w>
+                        <w pos="P" lemma="de">de</w>
+                        <w pos="VINF" lemma="faire">faire</w>
+                        <w pos="P" lemma="comme">comme</w>
+                        <w pos="PRO" lemma="cela">ça</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="CLS" lemma="il">vous</w>
+                        <w pos="VPP" lemma="faire">faites</w>
+                        <w pos="P" lemma="comme">comme</w>
+                        <w pos="PRO" lemma="cela">ça</w>
+                        <w pos="CC" lemma="et">et</w>
+                        <w pos="ADV" lemma="-">puis</w>
+                        <w pos="CLS" lemma="ce">c'</w>
+                        <w pos="V" lemma="être">est</w>
+                        <w pos="PRO" lemma="tout">tout</w>
+                        <w pos="PONCT" lemma="!">!</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#hoel">
+                <p>
+                    <s>
+                        <w pos="I" lemma="-">Ah</w>
+                        <w pos="NC" lemma="-">ben</w>
+                        <w pos="P" lemma="voilà">voilà</w>
+                        <w pos="PONCT" lemma="!">!</w>
+                    </s>
+                    <s>
+                        <w pos="CLS" lemma="ce">C'</w>
+                        <w pos="V" lemma="être">est</w>
+                        <w pos="DET" lemma="le">la</w>
+                        <w pos="NC" lemma="crise">crise</w>
+                        <w pos="P" lemma="de">d'</w>
+                        <w pos="NC" lemma="autorité">autorité</w>
+                        <w pos="PONCT" lemma="…">…</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#loth">
+                <p>
+                    <s>
+                        <w pos="NC" lemma="-">Bah</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="CLS" lemma="ce">c'</w>
+                        <w pos="V" lemma="être">est</w>
+                        <w pos="ADV" lemma="bien">bien</w>
+                        <w pos="DET" lemma="le">la</w>
+                        <w pos="NC" lemma="peine">peine</w>
+                        <w pos="P" lemma="de">de</w>
+                        <w pos="VINF" lemma="faire">faire</w>
+                        <w pos="DET" lemma="un">des</w>
+                        <w pos="NC" lemma="réunion">réunions</w>
+                        <w pos="P" lemma="de">de</w>
+                        <w pos="DET" lemma="-">trois</w>
+                        <w pos="NC" lemma="plombe">plombes</w>
+                        <w pos="P" lemma="pour">pour</w>
+                        <w pos="CLO" lemma="-">en</w>
+                        <w pos="VINF" lemma="arriver">arriver</w>
+                        <w pos="ADV" lemma="là">là</w>
+                        <w pos="PONCT" lemma=".">.</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#arthur">
+                <p>
+                    <s>
+                        <w pos="P+D" lemma="-">Au</w>
+                        <w pos="NC" lemma="bout">bout</w>
+                        <w pos="P" lemma="de">d'</w>
+                        <w pos="DET" lemma="un">un</w>
+                        <w pos="NC" lemma="moment">moment</w>
+                        <w pos="CLS" lemma="ce">c'</w>
+                        <w pos="V" lemma="être">est</w>
+                        <w pos="PROREL" lemma="qui">qui</w>
+                        <w pos="DET" lemma="le">le</w>
+                        <w pos="NC" lemma="patron">patron</w>
+                        <w pos="PONCT" lemma="?">?</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#ketchatar">
+                <p>
+                    <s>
+                        <w pos="PRO" lemma="cela">Ça</w>
+                        <w pos="V" lemma="aller">va</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="PRO" lemma="cela">ça</w>
+                        <w pos="V" lemma="aller">va</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="CLS" lemma="il">on</w>
+                        <w pos="V" lemma="savoir">sait</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="CLS" lemma="il">on</w>
+                        <w pos="V" lemma="savoir">sait</w>
+                        <w pos="PONCT" lemma="!">!</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#loth">
+                <p/>
+            </sp>
+            <sp who="#arthur">
+                <p>
+                    <s>
+                        <w pos="NC" lemma="-">Eh</w>
+                        <w pos="NC" lemma="-">ben</w>
+                        <w pos="P" lemma="en">en</w>
+                        <w pos="VPR" lemma="attendre">attendant</w>
+                        <w pos="CLS" lemma="il">vous</w>
+                        <w pos="V" lemma="être">êtes</w>
+                        <w pos="VPP" lemma="arriver">arrivé</w>
+                        <w pos="DET" lemma="un">une</w>
+                        <w pos="NC" lemma="demi-heure">demi-heure</w>
+                        <w pos="ADV" lemma="plus">plus</w>
+                        <w pos="ADV" lemma="tard">tard</w>
+                        <w pos="CC" lemma="et">et</w>
+                        <w pos="P+D" lemma="-">du</w>
+                        <w pos="NC" lemma="coup">coup</w>
+                        <w pos="CLS" lemma="ce">c'</w>
+                        <w pos="V" lemma="être">est</w>
+                        <w pos="NC" lemma="bibi">bibi</w>
+                        <w pos="PROREL" lemma="qui">qui</w>
+                        <w pos="NC" lemma="commande">commande</w>
+                        <w pos="PONCT" lemma="!">!</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#leodagan">
+                <p>
+                    <s>
+                        <w pos="CLS" lemma="ce">C'</w>
+                        <w pos="V" lemma="être">est</w>
+                        <w pos="NC" lemma="marrant">marrant</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="PRO" lemma="cela">ça</w>
+                        <w pos="CLS" lemma="il">vous</w>
+                        <w pos="V" lemma="avoir">a</w>
+                        <w pos="ADV" lemma="-">pas</w>
+                        <w pos="ADV" lemma="tellement">tellement</w>
+                        <w pos="VPP" lemma="apprendre">appris</w>
+                        <w pos="DET" lemma="le">la</w>
+                        <w pos="NC" lemma="ponctualité">ponctualité</w>
+                        <w pos="PONCT" lemma="…">…</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#loth">
+                <p>
+                    <s>
+                        <w pos="P" lemma="de">De</w>
+                        <w pos="PROWH" lemma="quoi?">quoi</w>
+                        <w pos="PONCT" lemma="?">?</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#hoel">
+                <p>
+                    <s>
+                        <w pos="NC" lemma="-">AH</w>
+                        <w pos="CC" lemma="mais">MAIS</w>
+                        <w pos="NC" lemma="-">VOUS</w>
+                        <w pos="NC" lemma="-">ALLEZ</w>
+                        <w pos="ADV" lemma="-">PAS</w>
+                        <w pos="NC" lemma="-">COMMENCER</w>
+                        <w pos="PONCT" lemma="?">?</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#ketchatar">
+                <p>
+                    <s>
+                        <w pos="ADV" lemma="alors">Alors</w>
+                        <w pos="ADV" lemma="là">là</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="CLO" lemma="-">y</w>
+                        <w pos="V" lemma="avoir">a</w>
+                        <w pos="ADV" lemma="-">que</w>
+                        <w pos="DET" lemma="le">la</w>
+                        <w pos="NC" lemma="tarte">tarte</w>
+                        <w pos="P" lemma="de">de</w>
+                        <w pos="DET" lemma="le">la</w>
+                        <w pos="NC" lemma="gueule">gueule</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="CLS" lemma="il">je</w>
+                        <w pos="V" lemma="voir">vois</w>
+                        <w pos="CS" lemma="-">que</w>
+                        <w pos="PRO" lemma="cela">ça</w>
+                        <w pos="PONCT" lemma="!">!</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#leodagan">
+                <p>
+                    <s>
+                        <w pos="I" lemma="-">Ah</w>
+                        <w pos="NC" lemma="oui">oui</w>
+                        <w pos="PONCT" lemma="?">?</w>
+                    </s>
+                    <s>
+                        <w pos="CC" lemma="et">Et</w>
+                        <w pos="PROWH" lemma="quiNom?">qui</w>
+                        <w pos="CLR" lemma="se">s'</w>
+                        <w pos="V" lemma="être">est</w>
+                        <w pos="PROREL" lemma="qui">qui</w>
+                        <w pos="V" lemma="aller">va</w>
+                        <w pos="CLO" lemma="le">me</w>
+                        <w pos="DET" lemma="le">la</w>
+                        <w pos="VINF" lemma="mettre">mettre</w>
+                        <w pos="PONCT" lemma="?">?</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#loth">
+                <p/>
+            </sp>
+            <sp who="#maitre-d-armes">
+                <p>
+                    <s>
+                        <w pos="CS" lemma="quand">Quand</w>
+                        <w pos="CLS" lemma="il">on</w>
+                        <w pos="V" lemma="être">est</w>
+                        <w pos="ADJ" lemma="idiot">idiot</w>
+                        <w pos="CLS" lemma="il">on</w>
+                        <w pos="V" lemma="planter">plante</w>
+                        <w pos="DET" lemma="un">des</w>
+                        <w pos="NC" lemma="carotte">carottes</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="CLS" lemma="il">on</w>
+                        <w pos="ADV" lemma="-">ne</w>
+                        <w pos="CLR" lemma="se">s'</w>
+                        <w pos="V" lemma="occuper">occupe</w>
+                        <w pos="ADV" lemma="-">pas</w>
+                        <w pos="P" lemma="de">de</w>
+                        <w pos="NC" lemma="sécurité">sécurité</w>
+                        <w pos="PONCT" lemma="!">!</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#grudu">
+                <p>
+                    <s>
+                        <w pos="CLS" lemma="il">Je</w>
+                        <w pos="V" lemma="aller">vais</w>
+                        <w pos="CLO" lemma="le">vous</w>
+                        <w pos="CLO" lemma="-">en</w>
+                        <w pos="NC" lemma="foutre">foutre</w>
+                        <w pos="PRO" lemma="lui">moi</w>
+                        <w pos="P" lemma="de">de</w>
+                        <w pos="DET" lemma="le">la</w>
+                        <w pos="NC" lemma="sécurité">sécurité</w>
+                        <w pos="PONCT" lemma="!">!</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#maitre-d-armes">
+                <p>
+                    <s>
+                        <w pos="VIMP" lemma="regarder">Regardez</w>
+                        <w pos="PONCT" lemma="-">-</w>
+                        <w pos="PRO" lemma="lui">moi</w>
+                        <w pos="PRO" lemma="cela">ça</w>
+                        <w pos="CLR" lemma="se">s'</w>
+                        <w pos="CLS" lemma="il">il</w>
+                        <w pos="CLO" lemma="-">y</w>
+                        <w pos="V" lemma="avoir">a</w>
+                        <w pos="P+D" lemma="-">du</w>
+                        <w pos="NC" lemma="style">style</w>
+                        <w pos="PONCT" lemma="!">!</w>
+                    </s>
+                    <s>
+                        <w pos="P" lemma="de">D'</w>
+                        <w pos="DET" lemma="un">une</w>
+                        <w pos="ADJ" lemma="seul">seule</w>
+                        <w pos="NC" lemma="main">main</w>
+                        <w pos="CLS" lemma="il">je</w>
+                        <w pos="CLO" lemma="le">vous</w>
+                        <w pos="NC" lemma="botte">botte</w>
+                        <w pos="DET" lemma="le">le</w>
+                        <w pos="NC" lemma="cul">cul</w>
+                        <w pos="PONCT" lemma="!">!</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#maitre-d-armes">
+                <p>
+                    <s>
+                        <w pos="CC" lemma="mais">Mais</w>
+                        <w pos="PRO" lemma="lui">vous</w>
+                        <w pos="V" lemma="être">êtes</w>
+                        <w pos="ADV" lemma="complètement">complètement</w>
+                        <w pos="NC" lemma="con">con</w>
+                        <w pos="PONCT" lemma="!">!</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="figurant">
+                <p>
+                    <s>
+                        <w pos="NC" lemma="-">Ouais</w>
+                        <w pos="PONCT" lemma="!">!</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#ketchatar">
+                <p>
+                    <s>
+                        <w pos="CLS" lemma="il">Ils</w>
+                        <w pos="V" lemma="être">sont</w>
+                        <w pos="NC" lemma="-">rouillés</w>
+                        <w pos="DET" lemma="le">les</w>
+                        <w pos="NC" lemma="roi">rois</w>
+                        <w pos="P" lemma="de">de</w>
+                        <w pos="NPP" lemma="-">Bretagne</w>
+                        <w pos="PONCT" lemma="?">?</w>
+                    </s>
+                    <s>
+                        <w pos="CC" lemma="ou">Ou</w>
+                        <w pos="CLS" lemma="il">ils</w>
+                        <w pos="V" lemma="être">sont</w>
+                        <w pos="ADV" lemma="-">pas</w>
+                        <w pos="NC" lemma="-">rouillés</w>
+                        <w pos="PONCT" lemma="?">?</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#leodagan">
+                <p>
+                    <s>
+                        <w pos="P" lemma="par">Par</w>
+                        <w pos="P" lemma="contre">contre</w>
+                        <w pos="CLS" lemma="il">on</w>
+                        <w pos="V" lemma="avoir">a</w>
+                        <w pos="PRO" lemma="tout">tout</w>
+                        <w pos="VPP" lemma="buter">buté</w>
+                        <w pos="PONCT" lemma=".">.</w>
+                    </s>
+                    <s>
+                        <w pos="CLS" lemma="il">On</w>
+                        <w pos="V" lemma="pouvoir">peut</w>
+                        <w pos="ADV" lemma="même">même</w>
+                        <w pos="ADV" lemma="-">pas</w>
+                        <w pos="VINF" lemma="savoir">savoir</w>
+                        <w pos="PROWH" lemma="quiNom?">qui</w>
+                        <w pos="CLS" lemma="ce">c'</w>
+                        <w pos="V" lemma="être">est</w>
+                        <w pos="PONCT" lemma=".">.</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="figurant">
+                <p>
+                    <s>
+                        <w pos="NC" lemma="-">Orcanie</w>
+                        <w pos="PONCT" lemma="…">…</w>
+                    </s>
+                    <s>
+                        <w pos="ADJ" lemma="indépendant">indépendante</w>
+                        <w pos="PONCT" lemma="!">!</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#loth">
+                <p>
+                    <s>
+                        <w pos="NC" lemma="-">Oh</w>
+                        <w pos="DET" lemma="le">le</w>
+                        <w pos="NC" lemma="con">con</w>
+                        <w pos="PONCT" lemma="!">!</w>
+                    </s>
+                    <s>
+                        <w pos="CLS" lemma="il">Il</w>
+                        <w pos="V" lemma="être">est</w>
+                        <w pos="P" lemma="de">de</w>
+                        <w pos="P" lemma="chez">chez</w>
+                        <w pos="PRO" lemma="lui">moi</w>
+                        <w pos="PONCT" lemma="!">!</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#loth">
+                <p>
+                    <s>
+                        <w pos="NC" lemma="-">Oh</w>
+                        <w pos="I" lemma="pardon">pardon</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="I" lemma="oui">oui</w>
+                        <w pos="NC" lemma="oui">oui</w>
+                        <w pos="CLS" lemma="ce">c'</w>
+                        <w pos="V" lemma="être">est</w>
+                        <w pos="PONCT" lemma="-">-</w>
+                        <w pos="CLS" lemma="ce">c'</w>
+                        <w pos="V" lemma="être">est</w>
+                        <w pos="CS" lemma="-">parce</w>
+                        <w pos="CS" lemma="-">que</w>
+                        <w pos="PRO" lemma="cela">ça</w>
+                        <w pos="PONCT" lemma=",">,</w>
+                        <w pos="PRO" lemma="cela">ça</w>
+                        <w pos="VPP" lemma="conduire">conduit</w>
+                        <w pos="PONCT" lemma=".">.</w>
+                    </s>
+                </p>
+            </sp>
+            <sp who="#loth">
+                <p>
+                    <s>
+                        <w pos="ADJ" lemma="bon">Bon</w>
+                        <w pos="NC" lemma="-">ben</w>
+                        <w pos="ADV" lemma="autant">autant</w>
+                        <w pos="P" lemma="pour">pour</w>
+                        <w pos="PRO" lemma="lui">moi</w>
+                        <w pos="PONCT" lemma=".">.</w>
+                    </s>
+                </p>
+            </sp>
+            <schemaSpec ident="TEI-minimal" start="TEI">
+                <moduleRef key="analysis"/>
+                <moduleRef key="tei"/>
+                <moduleRef key="header"/>
+                <moduleRef key="core"/>
+                <moduleRef key="textstructure"/>
+            </schemaSpec>
+        </body>
+    </text>
+</TEI>
