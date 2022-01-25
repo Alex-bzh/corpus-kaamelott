@@ -19,6 +19,7 @@ As things progress, you can evaluate the result of the most recent developments 
 
 ## Resources
 
+- `cat/` folder groups the lines by speaker.
 - `sample/` folder is a set of some screenplays selected by sampling. By nature, they should not be considered as stable, but as a work in progress.
 - `static/cast.txt`: makes the link between characters and the actors who interpret them.
 - `static/characters.txt`: directory of characters in Kaamelott.
@@ -41,10 +42,10 @@ Below is an example of use:
 ```py
 # Modules to import
 from collections import defaultdict
-from KaamelottCorpusReader import KaamelottCorpusReader
+from KaamelottCorpusReader import KaamelottCorpusReader as KCR
 
 # Parse the tagged corpus
-kaam = KaamelottCorpusReader('./tagged', r'.*\.pos')
+kaam = KCR('./tagged', r'.*\.pos')
 
 # Select a screenplay
 tagged = kaam.tagged_corpus('S01E01-heat.pos')
@@ -52,21 +53,19 @@ tagged = kaam.tagged_corpus('S01E01-heat.pos')
 # Get all the rows
 rows = tagged.values()
 
-# Make a dictionary of cues by speaker
+# Make a dictionary of lines by speaker
 d = defaultdict(list)
-for row in rows:
-    [
-        [
-            d[speaker].append(cue)
-            for cue in cues
-        ]
-        for speaker, cues in row
-    ]
+[
+    d[speaker].append(line)
+    for row in rows
+    for speaker, lines in row
+    for line in lines
+]
 
 # Who are the speakers in the screenplay?
 speakers = d.keys()
 
-# Print the fifth cue of character Karadoc
+# Print the fifth line of character Karadoc
 print(d['Karadoc'][4])
 # [('De', 'P', 'de'), ('quoi', 'PROWH', 'quoi?'), ('?', 'PONCT', '?')]
 ```
